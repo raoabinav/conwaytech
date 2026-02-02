@@ -1,0 +1,487 @@
+type,week,cluster_id,current_share,baseline_share,z_score,severity,cluster_label,entity,observed,expected,ratio,p_value,novel_count,total_count,novel_share,sample_complaint_ids,companies_affected,company_list,avg_growth_ratio,common_issues,score
+cluster_growing,2024-06-24/2024-06-30,16.0,11.3,1.19,18.93,high,"transactions, transactions report, authorize, report, did",,,,,,,,,,,,,,28.93
+cluster_growing,2024-05-27/2024-06-02,21.0,18.15,5.02,16.81,high,"accounts, listed accounts, listed, accounts credit, fcra 605b",,,,,,,,,,,,,,26.81
+volume_spike,2024-08-19/2024-08-25,,,,,high,,"Credit Control, LLC",18.0,3.0,6.0,0.0,,,,,,,,,26.0
+volume_spike,2024-02-19/2024-02-25,,,,,high,,CL Holdings LLC,145.0,27.8,5.23,0.0,,,,,,,,,25.23
+cluster_growing,2024-09-23/2024-09-29,3.0,9.76,1.83,14.62,high,"accounts, look documents, accordance fcra, report accordance, 605b look",,,,,,,,,,,,,,24.619999999999997
+cluster_shrinking,2024-04-29/2024-05-05,28.0,0.78,13.44,-14.29,high,"need reporting, reporting correction, correction company, accounts need, identified inaccurate",,,,,,,,,,,,,,24.29
+volume_spike,2024-02-12/2024-02-18,,,,,high,,CL Holdings LLC,63.0,16.8,3.76,0.0,,,,,,,,,23.759999999999998
+cluster_growing,2024-01-22/2024-01-28,20.0,14.99,3.4,13.65,high,"credit report, report, credit, accounts, fraudulent",,,,,,,,,,,,,,23.65
+volume_spike,2024-01-15/2024-01-21,,,,,high,,OneMain Finance Corporation,10.0,1.3,7.5,1e-06,,,,,,,,,23.499956572723136
+volume_spike,2024-03-11/2024-03-17,,,,,high,,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",365.0,112.5,3.24,0.0,,,,,,,,,23.240000000000002
+volume_spike,2024-03-11/2024-03-17,,,,,high,,"EQUIFAX, INC.",291.0,95.5,3.05,0.0,,,,,,,,,23.05
+volume_spike,2024-03-11/2024-03-17,,,,,high,,Experian Information Solutions Inc.,313.0,103.0,3.04,0.0,,,,,,,,,23.04
+volume_spike,2024-03-04/2024-03-10,,,,,high,,"EQUIFAX, INC.",187.0,61.8,3.03,0.0,,,,,,,,,23.03
+cluster_growing,2024-05-06/2024-05-12,10.0,8.34,1.96,12.93,high,"recognize significance, ve identified, inaccurate troubling, erroneous entries, identified accounts",,,,,,,,,,,,,,22.93
+cluster_growing,2024-03-25/2024-03-31,21.0,12.71,4.42,12.08,high,"accounts, listed accounts, listed, accounts credit, fcra 605b",,,,,,,,,,,,,,22.08
+cluster_growing,2024-03-11/2024-03-17,20.0,9.47,2.69,11.88,high,"credit report, report, credit, accounts, fraudulent",,,,,,,,,,,,,,21.880000000000003
+cluster_growing,2024-05-20/2024-05-26,10.0,12.39,4.5,11.44,high,"recognize significance, ve identified, inaccurate troubling, erroneous entries, identified accounts",,,,,,,,,,,,,,21.439999999999998
+cluster_growing,2024-07-01/2024-07-07,16.0,12.96,4.06,11.39,high,"transactions, transactions report, authorize, report, did",,,,,,,,,,,,,,21.39
+cluster_growing,2024-03-18/2024-03-24,26.0,13.35,5.19,11.36,high,"transactions, wish, formally, transactions consumer, inclusion specific",,,,,,,,,,,,,,21.36
+cluster_growing,2024-06-03/2024-06-09,19.0,9.75,3.02,11.24,high,"discrepancies accounts, 605b review, discrepancies, importance removing, quite concerning",,,,,,,,,,,,,,21.240000000000002
+cluster_growing,2024-03-04/2024-03-10,20.0,6.48,1.18,11.08,high,"credit report, report, credit, accounts, fraudulent",,,,,,,,,,,,,,21.08
+cluster_growing,2024-04-29/2024-05-05,2.0,5.25,1.1,10.94,high,"inaccurate accounts, identified inaccurate, report identified, inaccurate, reviewing credit",,,,,,,,,,,,,,20.939999999999998
+cluster_shrinking,2024-04-22/2024-04-28,21.0,2.43,10.24,-10.52,high,"accounts, listed accounts, listed, accounts credit, fcra 605b",,,,,,,,,,,,,,20.52
+cluster_growing,2024-03-18/2024-03-24,21.0,7.9,2.45,10.32,high,"accounts, listed accounts, listed, accounts credit, fcra 605b",,,,,,,,,,,,,,20.32
+cluster_shrinking,2024-05-20/2024-05-26,3.0,0.75,8.08,-10.09,high,"accounts, look documents, accordance fcra, report accordance, 605b look",,,,,,,,,,,,,,20.09
+cluster_growing,2024-03-11/2024-03-17,28.0,8.95,3.11,10.06,high,"need reporting, reporting correction, correction company, accounts need, identified inaccurate",,,,,,,,,,,,,,20.060000000000002
+cluster_growing,2024-02-19/2024-02-25,29.0,6.73,1.62,9.39,high,"1006, cfr 1006, 34, 12 cfr, cfr",,,,,,,,,,,,,,19.39
+cluster_growing,2024-01-15/2024-01-21,20.0,8.21,1.81,9.32,high,"credit report, report, credit, accounts, fraudulent",,,,,,,,,,,,,,19.32
+volume_spike,2023-12-04/2023-12-10,,,,,high,,"W&A Intermediate Co., LLC",13.0,3.0,4.33,1.6e-05,,,,,,,,,19.125877303012047
+volume_spike,2024-05-06/2024-05-12,,,,,high,,"Aldous & Associates, PLLC",18.0,5.0,3.6,5e-06,,,,,,,,,18.901021309861203
+cluster_shrinking,2024-04-15/2024-04-21,26.0,5.1,12.36,-8.76,high,"transactions, wish, formally, transactions consumer, inclusion specific",,,,,,,,,,,,,,18.759999999999998
+cluster_shrinking,2024-04-15/2024-04-21,21.0,4.37,11.27,-8.69,high,"accounts, listed accounts, listed, accounts credit, fcra 605b",,,,,,,,,,,,,,18.689999999999998
+cluster_growing,2024-04-29/2024-05-05,3.0,10.57,4.83,8.68,high,"accounts, look documents, accordance fcra, report accordance, 605b look",,,,,,,,,,,,,,18.68
+cluster_shrinking,2024-06-24/2024-06-30,21.0,1.17,7.48,-8.62,high,"accounts, listed accounts, listed, accounts credit, fcra 605b",,,,,,,,,,,,,,18.619999999999997
+volume_spike,2024-02-05/2024-02-11,,,,,high,,"Sequium Asset Solutions, LLC",11.0,2.5,4.4,6.2e-05,,,,,,,,,18.60760761002734
+volume_spike,2025-01-27/2025-02-02,,,,,high,,"CLGF Holdco 1, LLC",11.0,2.5,4.4,6.2e-05,,,,,,,,,18.60760761002734
+cluster_shrinking,2025-01-06/2025-01-12,3.0,0.06,3.98,-8.35,high,"accounts, look documents, accordance fcra, report accordance, 605b look",,,,,,,,,,,,,,18.35
+volume_spike,2025-01-20/2025-01-26,,,,,high,,"UPGRADE, INC.",8.0,1.7,4.8,0.000341,,,,,,,,,18.267245493648435
+volume_spike,2024-10-21/2024-10-27,,,,,high,,Velocity Portfolio Group,14.0,3.8,3.73,3.9e-05,,,,,,,,,18.138934279399333
+cluster_shrinking,2024-03-11/2024-03-17,6.0,9.89,17.8,-8.04,high,"xxxx, xxxx xxxx, debt, account, credit",,,,,,,,,,,,,,18.04
+volume_spike,2024-03-04/2024-03-10,,,,,medium,,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",220.0,74.2,2.96,0.0,,,,,,,,,17.96
+volume_spike,2024-04-15/2024-04-21,,,,,high,,"SANTANDER HOLDINGS USA, INC.",8.0,1.8,4.57,0.000468,,,,,,,,,17.899754054127918
+volume_spike,2024-08-26/2024-09-01,,,,,high,,Self Financial Inc.,8.0,1.8,4.57,0.000468,,,,,,,,,17.899754054127918
+cluster_shrinking,2024-04-29/2024-05-05,26.0,1.69,6.96,-7.89,high,"transactions, wish, formally, transactions consumer, inclusion specific",,,,,,,,,,,,,,17.89
+volume_spike,2024-04-22/2024-04-28,,,,,high,,Source Receivables Management LLC,7.0,1.5,4.67,0.000926,,,,,,,,,17.703388966418018
+volume_spike,2024-11-04/2024-11-10,,,,,high,,Consumer Adjustment Company Incorporated,7.0,1.5,4.67,0.000926,,,,,,,,,17.703388966418018
+volume_spike,2025-01-06/2025-01-12,,,,,high,,"Kimball, Tirey & St. John LLP",7.0,1.5,4.67,0.000926,,,,,,,,,17.703388966418018
+volume_spike,2024-01-15/2024-01-21,,,,,high,,"Collection Management Holdings, LLC",7.0,1.5,4.67,0.000926,,,,,,,,,17.703388966418018
+volume_spike,2023-12-25/2023-12-31,,,,,high,,"Security Credit Services, LLC",7.0,1.5,4.67,0.000926,,,,,,,,,17.703388966418018
+volume_spike,2024-03-04/2024-03-10,,,,,medium,,Experian Information Solutions Inc.,188.0,72.0,2.61,0.0,,,,,,,,,17.61
+volume_spike,2024-07-22/2024-07-28,,,,,high,,LJ Ross Associates,6.0,1.2,4.8,0.001838,,,,,,,,,17.535654469321265
+volume_spike,2024-01-29/2024-02-04,,,,,high,,"Sequium Asset Solutions, LLC",6.0,1.2,4.8,0.001838,,,,,,,,,17.535654469321265
+cluster_growing,2024-11-25/2024-12-01,3.0,11.72,5.6,7.49,high,"accounts, look documents, accordance fcra, report accordance, 605b look",,,,,,,,,,,,,,17.490000000000002
+cluster_shrinking,2024-05-06/2024-05-12,20.0,1.19,5.76,-7.42,high,"credit report, report, credit, accounts, fraudulent",,,,,,,,,,,,,,17.42
+cluster_shrinking,2024-02-12/2024-02-18,20.0,1.02,7.31,-7.39,high,"credit report, report, credit, accounts, fraudulent",,,,,,,,,,,,,,17.39
+cluster_growing,2024-09-30/2024-10-06,22.0,10.75,5.36,7.34,high,"debt, collector, debt collector, consumer, alleged",,,,,,,,,,,,,,17.34
+cluster_growing,2024-04-08/2024-04-14,25.0,4.43,1.57,7.3,high,"usc, 15 usc, 15, evidence, usc 1681i",,,,,,,,,,,,,,17.3
+cluster_growing,2024-04-22/2024-04-28,3.0,6.91,3.15,7.26,high,"accounts, look documents, accordance fcra, report accordance, 605b look",,,,,,,,,,,,,,17.259999999999998
+volume_spike,2025-01-20/2025-01-26,,,,,high,,"Ability Recovery Services, LLC",11.0,3.0,3.67,0.000292,,,,,,,,,17.204616999820622
+volume_spike,2024-02-26/2024-03-03,,,,,high,,JPMORGAN CHASE & CO.,11.0,3.0,3.67,0.000292,,,,,,,,,17.204616999820622
+volume_spike,2024-08-12/2024-08-18,,,,,high,,AMERICAN EXPRESS COMPANY,11.0,3.0,3.67,0.000292,,,,,,,,,17.204616999820622
+volume_spike,2024-01-22/2024-01-28,,,,,medium,,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",153.0,72.2,2.12,0.0,,,,,,,,,17.12
+volume_spike,2023-11-27/2023-12-03,,,,,high,,AMERICAN EXPRESS COMPANY,6.0,1.3,4.5,0.002525,,,,,,,,,17.097738600345536
+volume_spike,2024-01-22/2024-01-28,,,,,medium,,Experian Information Solutions Inc.,141.0,69.2,2.04,0.0,,,,,,,,,17.04
+volume_spike,2024-01-22/2024-01-28,,,,,medium,,"EQUIFAX, INC.",115.0,56.2,2.04,0.0,,,,,,,,,17.04
+volume_spike,2024-08-12/2024-08-18,,,,,high,,"HW Holding, Inc",15.0,4.8,3.16,0.000132,,,,,,,,,17.039425739783304
+cluster_growing,2025-01-20/2025-01-26,11.0,12.32,7.52,7.01,high,"xxxx, credit, account, reporting, information",,,,,,,,,,,,,,17.009999999999998
+cluster_growing,2024-09-30/2024-10-06,3.0,9.12,4.4,7.01,high,"accounts, look documents, accordance fcra, report accordance, 605b look",,,,,,,,,,,,,,17.009999999999998
+volume_spike,2024-12-30/2025-01-05,,,,,high,,"Debt Recovery Solutions, LLC",9.0,2.3,3.86,0.000709,,,,,,,,,17.00935370356243
+cluster_shrinking,2024-06-17/2024-06-23,21.0,2.75,8.33,-6.98,high,"accounts, listed accounts, listed, accounts credit, fcra 605b",,,,,,,,,,,,,,16.98
+cluster_growing,2024-04-01/2024-04-07,21.0,12.35,7.04,6.96,high,"accounts, listed accounts, listed, accounts credit, fcra 605b",,,,,,,,,,,,,,16.96
+volume_spike,2024-12-30/2025-01-05,,,,,high,,"Aldous & Associates, PLLC",10.0,2.8,3.64,0.000576,,,,,,,,,16.879577441178448
+volume_spike,2024-09-23/2024-09-29,,,,,high,,WELLS FARGO & COMPANY,10.0,2.8,3.64,0.000576,,,,,,,,,16.879577441178448
+cluster_shrinking,2024-06-17/2024-06-23,26.0,0.15,3.83,-6.87,high,"transactions, wish, formally, transactions consumer, inclusion specific",,,,,,,,,,,,,,16.87
+cluster_shrinking,2024-04-08/2024-04-14,26.0,8.16,14.31,-6.78,high,"transactions, wish, formally, transactions consumer, inclusion specific",,,,,,,,,,,,,,16.78
+cluster_growing,2024-12-09/2024-12-15,16.0,6.61,2.91,6.69,high,"transactions, transactions report, authorize, report, did",,,,,,,,,,,,,,16.69
+cluster_shrinking,2024-06-03/2024-06-09,21.0,3.0,7.98,-6.69,high,"accounts, listed accounts, listed, accounts credit, fcra 605b",,,,,,,,,,,,,,16.69
+cluster_shrinking,2025-01-13/2025-01-19,3.0,0.05,2.31,-6.68,high,"accounts, look documents, accordance fcra, report accordance, 605b look",,,,,,,,,,,,,,16.68
+volume_spike,2024-09-02/2024-09-08,,,,,high,,OneMain Finance Corporation,7.0,1.8,4.0,0.002201,,,,,,,,,16.657379937714964
+volume_spike,2024-06-10/2024-06-16,,,,,high,,"Debt Recovery Solutions, LLC",7.0,1.8,4.0,0.002201,,,,,,,,,16.657379937714964
+volume_spike,2025-01-13/2025-01-19,,,,,high,,"Capio Partners, LLC",7.0,1.8,4.0,0.002201,,,,,,,,,16.657379937714964
+volume_spike,2024-02-26/2024-03-03,,,,,high,,ALLY FINANCIAL INC.,7.0,1.8,4.0,0.002201,,,,,,,,,16.657379937714964
+volume_spike,2024-10-07/2024-10-13,,,,,high,,"ONLINE Information Services, Inc.",7.0,1.8,4.0,0.002201,,,,,,,,,16.657379937714964
+cluster_shrinking,2024-01-22/2024-01-28,11.0,6.88,14.47,-6.65,high,"xxxx, credit, account, reporting, information",,,,,,,,,,,,,,16.65
+volume_spike,2024-09-23/2024-09-29,,,,,high,,V and H Portfolio,11.0,3.2,3.38,0.000564,,,,,,,,,16.628720819014095
+volume_spike,2024-11-11/2024-11-17,,,,,high,,Absolute Resolutions Corp.,11.0,3.3,3.3,0.000692,,,,,,,,,16.459893842783927
+volume_spike,2025-01-27/2025-02-02,,,,,high,,"Upstart Holdings, Inc.",6.0,1.5,4.0,0.004456,,,,,,,,,16.351054808088044
+volume_spike,2025-01-20/2025-01-26,,,,,high,,Global Lending Services LLC,6.0,1.5,4.0,0.004456,,,,,,,,,16.351054808088044
+volume_spike,2024-01-01/2024-01-07,,,,,high,,"The CMI Group, Inc.",6.0,1.5,4.0,0.004456,,,,,,,,,16.351054808088044
+volume_spike,2024-09-30/2024-10-06,,,,,high,,ALLY FINANCIAL INC.,6.0,1.5,4.0,0.004456,,,,,,,,,16.351054808088044
+volume_spike,2024-01-22/2024-01-28,,,,,high,,CREDIT ACCEPTANCE CORPORATION,6.0,1.5,4.0,0.004456,,,,,,,,,16.351054808088044
+volume_spike,2024-09-16/2024-09-22,,,,,high,,"Shellpoint Partners, LLC",6.0,1.5,4.0,0.004456,,,,,,,,,16.351054808088044
+volume_spike,2023-12-18/2023-12-24,,,,,high,,WELLS FARGO & COMPANY,10.0,3.0,3.33,0.001102,,,,,,,,,16.287818366074575
+volume_spike,2024-10-07/2024-10-13,,,,,high,,NCB Management Services Inc.,10.0,3.0,3.33,0.001102,,,,,,,,,16.287818366074575
+cluster_shrinking,2024-03-11/2024-03-17,8.0,9.79,15.58,-6.16,high,"xxxx, xxxx xxxx, xx, debt, account",,,,,,,,,,,,,,16.16
+volume_spike,2024-10-14/2024-10-20,,,,,high,,"Credit Control, LLC",11.0,3.5,3.14,0.001019,,,,,,,,,16.1318257733739
+cluster_growing,2024-08-12/2024-08-18,9.0,5.91,2.65,6.12,high,"invaluable ensuring, feedback insights, expertise invaluable, completeness feedback, review examine",,,,,,,,,,,,,,16.12
+cluster_shrinking,2024-02-19/2024-02-25,20.0,1.38,5.53,-6.11,high,"credit report, report, credit, accounts, fraudulent",,,,,,,,,,,,,,16.11
+cluster_growing,2025-01-06/2025-01-12,9.0,4.61,1.96,6.07,high,"invaluable ensuring, feedback insights, expertise invaluable, completeness feedback, review examine",,,,,,,,,,,,,,16.07
+cluster_shrinking,2024-03-11/2024-03-17,18.0,12.79,19.01,-6.06,high,"debt, company, xxxx, credit, account",,,,,,,,,,,,,,16.06
+cluster_shrinking,2024-02-05/2024-02-11,20.0,1.87,7.27,-6.05,high,"credit report, report, credit, accounts, fraudulent",,,,,,,,,,,,,,16.05
+volume_spike,2024-10-07/2024-10-13,,,,,high,,Alorica Inc.,5.0,1.2,4.0,0.009124,,,,,,,,,16.039814718635476
+volume_spike,2024-12-02/2024-12-08,,,,,high,,"Lockhart, Morris & Montgomery Inc.",5.0,1.2,4.0,0.009124,,,,,,,,,16.039814718635476
+volume_spike,2024-08-12/2024-08-18,,,,,high,,"Eastern Account Systems of Connecticut, Inc.",9.0,2.8,3.27,0.002161,,,,,,,,,15.935345213019836
+cluster_growing,2024-10-07/2024-10-13,13.0,4.67,2.01,5.91,high,"creditor, debt, original creditor, original, dispute",,,,,,,,,,,,,,15.91
+cluster_shrinking,2024-03-11/2024-03-17,29.0,1.95,5.17,-5.88,high,"1006, cfr 1006, 34, 12 cfr, cfr",,,,,,,,,,,,,,15.879999999999999
+volume_spike,2025-01-20/2025-01-26,,,,,high,,CONTRACT CALLERS INC,7.0,2.0,3.5,0.004534,,,,,,,,,15.843518474630885
+volume_spike,2025-01-27/2025-02-02,,,,,high,,LJ Ross Associates,7.0,2.0,3.5,0.004534,,,,,,,,,15.843518474630885
+volume_spike,2024-04-15/2024-04-21,,,,,high,,Zions Debt Holdings,7.0,2.0,3.5,0.004534,,,,,,,,,15.843518474630885
+cluster_growing,2024-10-28/2024-11-03,5.0,11.16,6.53,5.84,high,"debt, xxxx, collection, validation, request",,,,,,,,,,,,,,15.84
+volume_spike,2024-07-01/2024-07-07,,,,,high,,"Sequium Asset Solutions, LLC",10.0,3.2,3.08,0.001969,,,,,,,,,15.78575426180528
+volume_spike,2023-11-27/2023-12-03,,,,,high,,TrueAccord Corp.,10.0,3.2,3.08,0.001969,,,,,,,,,15.78575426180528
+cluster_growing,2024-05-13/2024-05-19,18.0,17.58,11.87,5.75,high,"debt, company, xxxx, credit, account",,,,,,,,,,,,,,15.75
+volume_spike,2024-08-26/2024-09-01,,,,,high,,CCF Intermediate Holdings LLC,6.0,1.7,3.6,0.007302,,,,,,,,,15.736558165438682
+volume_spike,2024-06-17/2024-06-23,,,,,high,,Bridgecrest Acceptance Corporation,6.0,1.7,3.6,0.007302,,,,,,,,,15.736558165438682
+cluster_shrinking,2024-09-23/2024-09-29,16.0,2.67,6.56,-5.72,high,"transactions, transactions report, authorize, report, did",,,,,,,,,,,,,,15.719999999999999
+cluster_shrinking,2024-01-29/2024-02-04,20.0,2.1,7.38,-5.69,high,"credit report, report, credit, accounts, fraudulent",,,,,,,,,,,,,,15.690000000000001
+cluster_shrinking,2024-12-23/2024-12-29,3.0,3.3,7.93,-5.63,high,"accounts, look documents, accordance fcra, report accordance, 605b look",,,,,,,,,,,,,,15.629999999999999
+cluster_shrinking,2024-05-20/2024-05-26,20.0,0.55,3.16,-5.59,high,"credit report, report, credit, accounts, fraudulent",,,,,,,,,,,,,,15.59
+cluster_shrinking,2024-05-27/2024-06-02,15.0,2.8,6.7,-5.59,high,"blocked, transactions, want, transactions blocked, removed important",,,,,,,,,,,,,,15.59
+volume_spike,2024-09-30/2024-10-06,,,,,high,,Self Financial Inc.,8.0,2.5,3.2,0.004247,,,,,,,,,15.571917728783408
+volume_spike,2024-09-23/2024-09-29,,,,,high,,"Collection Management Holdings, LLC",8.0,2.5,3.2,0.004247,,,,,,,,,15.571917728783408
+cluster_shrinking,2024-04-22/2024-04-28,20.0,3.15,6.58,-5.51,high,"credit report, report, credit, accounts, fraudulent",,,,,,,,,,,,,,15.51
+volume_spike,2024-07-22/2024-07-28,,,,,high,,TD BANK US HOLDING COMPANY,6.0,1.8,3.43,0.009134,,,,,,,,,15.469338987974316
+volume_spike,2024-11-04/2024-11-10,,,,,high,,"The CBE Group, Inc.",6.0,1.8,3.43,0.009134,,,,,,,,,15.469338987974316
+volume_spike,2024-07-08/2024-07-14,,,,,high,,NAVY FEDERAL CREDIT UNION,6.0,1.8,3.43,0.009134,,,,,,,,,15.469338987974316
+volume_spike,2024-06-10/2024-06-16,,,,,high,,TrueAccord Corp.,6.0,1.8,3.43,0.009134,,,,,,,,,15.469338987974316
+volume_spike,2025-01-13/2025-01-19,,,,,high,,CCF Intermediate Holdings LLC,6.0,1.8,3.43,0.009134,,,,,,,,,15.469338987974316
+cluster_shrinking,2024-12-02/2024-12-08,9.0,1.05,3.86,-5.46,high,"invaluable ensuring, feedback insights, expertise invaluable, completeness feedback, review examine",,,,,,,,,,,,,,15.46
+cluster_growing,2024-04-01/2024-04-07,26.0,15.69,10.79,5.44,high,"transactions, wish, formally, transactions consumer, inclusion specific",,,,,,,,,,,,,,15.440000000000001
+cluster_growing,2024-07-22/2024-07-28,22.0,8.28,4.45,5.36,high,"debt, collector, debt collector, consumer, alleged",,,,,,,,,,,,,,15.36
+cluster_growing,2024-06-17/2024-06-23,10.0,13.62,8.75,5.36,high,"recognize significance, ve identified, inaccurate troubling, erroneous entries, identified accounts",,,,,,,,,,,,,,15.36
+cluster_growing,2024-06-10/2024-06-16,3.0,6.93,3.65,5.22,high,"accounts, look documents, accordance fcra, report accordance, 605b look",,,,,,,,,,,,,,15.219999999999999
+cluster_growing,2024-03-11/2024-03-17,21.0,3.53,1.5,5.21,high,"accounts, listed accounts, listed, accounts credit, fcra 605b",,,,,,,,,,,,,,15.21
+volume_spike,2023-12-04/2023-12-10,,,,,high,,Rent Recovery Solutions,7.0,2.2,3.11,0.008372,,,,,,,,,15.187170775145887
+volume_spike,2023-11-27/2023-12-03,,,,,high,,JPMORGAN CHASE & CO.,7.0,2.2,3.11,0.008372,,,,,,,,,15.187170775145887
+volume_spike,2024-08-19/2024-08-25,,,,,high,,"Sequium Asset Solutions, LLC",7.0,2.2,3.11,0.008372,,,,,,,,,15.187170775145887
+volume_spike,2024-02-12/2024-02-18,,,,,high,,NAVY FEDERAL CREDIT UNION,7.0,2.2,3.11,0.008372,,,,,,,,,15.187170775145887
+volume_spike,2023-12-11/2023-12-17,,,,,high,,"Eastern Account Systems of Connecticut, Inc.",7.0,2.2,3.11,0.008372,,,,,,,,,15.187170775145887
+cluster_shrinking,2024-09-09/2024-09-15,12.0,0.29,2.55,-5.18,high,"code 1692e, 1692e, 15 code, code, nature legal",,,,,,,,,,,,,,15.18
+cluster_shrinking,2025-01-06/2025-01-12,20.0,1.54,4.14,-5.17,high,"credit report, report, credit, accounts, fraudulent",,,,,,,,,,,,,,15.17
+cluster_growing,2024-03-18/2024-03-24,28.0,9.12,5.62,5.09,high,"need reporting, reporting correction, correction company, accounts need, identified inaccurate",,,,,,,,,,,,,,15.09
+cluster_growing,2024-03-25/2024-03-31,26.0,12.64,8.46,5.02,high,"transactions, wish, formally, transactions consumer, inclusion specific",,,,,,,,,,,,,,15.02
+cluster_growing,2024-05-27/2024-06-02,26.0,6.24,3.37,5.0,high,"transactions, wish, formally, transactions consumer, inclusion specific",,,,,,,,,,,,,,15.0
+volume_spike,2024-09-23/2024-09-29,,,,,medium,,"Kriya Capital, LLC",26.0,10.0,2.6,1.8e-05,,,,,,,,,12.344725082156275
+volume_spike,2023-11-27/2023-12-03,,,,,medium,,CAPITAL ONE FINANCIAL CORPORATION,19.0,6.5,2.92,5.1e-05,,,,,,,,,12.21242897234509
+volume_spike,2025-01-13/2025-01-19,,,,,medium,,"Rowland Avenue Management, Inc. A/KA Columbia Debt Recovery, LLC d/b/a Genesis",35.0,15.5,2.26,1.4e-05,,,,,,,,,12.113868862229397
+volume_spike,2025-01-13/2025-01-19,,,,,low,,Resurgent Capital Services L.P.,166.0,95.8,1.73,0.0,,,,,,,,,11.73
+volume_spike,2025-01-20/2025-01-26,,,,,low,,"Portfolio Recovery Associates, LLC",106.0,61.5,1.72,0.0,,,,,,,,,11.72
+volume_spike,2024-04-22/2024-04-28,,,,,medium,,"W&A Intermediate Co., LLC",16.0,5.5,2.91,0.0002,,,,,,,,,11.608969787188833
+volume_spike,2025-01-20/2025-01-26,,,,,low,,"EQUIFAX, INC.",145.0,91.5,1.58,0.0,,,,,,,,,11.58
+volume_spike,2025-01-13/2025-01-19,,,,,low,,Experian Information Solutions Inc.,163.0,104.0,1.57,0.0,,,,,,,,,11.57
+volume_spike,2025-01-20/2025-01-26,,,,,low,,Experian Information Solutions Inc.,184.0,119.2,1.54,0.0,,,,,,,,,11.54
+volume_spike,2024-01-22/2024-01-28,,,,,medium,,TRANSWORLD SYSTEMS INC,26.0,11.0,2.36,8.2e-05,,,,,,,,,11.446185617989189
+volume_spike,2024-12-16/2024-12-22,,,,,medium,,"Spring Oaks Capital, LLC",19.0,7.2,2.62,0.000201,,,,,,,,,11.31680372651266
+volume_spike,2024-09-30/2024-10-06,,,,,medium,,"Sequium Asset Solutions, LLC",11.0,3.8,2.93,0.001743,,,,,,,,,10.688702587973514
+volume_spike,2024-02-12/2024-02-18,,,,,medium,,"National Credit Systems,Inc.",26.0,12.0,2.17,0.000308,,,,,,,,,10.681449142494877
+volume_spike,2024-01-22/2024-01-28,,,,,medium,,"CCS Financial Services, Inc.",27.0,12.8,2.12,0.000338,,,,,,,,,10.591083171232874
+volume_spike,2024-06-10/2024-06-16,,,,,medium,,"Diversified Adjustment Service, Inc.",9.0,3.0,3.0,0.003803,,,,,,,,,10.41987366316863
+volume_spike,2024-09-30/2024-10-06,,,,,medium,,"Collection Management Holdings, LLC",10.0,3.5,2.86,0.003315,,,,,,,,,10.339516454158318
+volume_spike,2024-06-10/2024-06-16,,,,,medium,,"Affirm Holdings, Inc",14.0,5.5,2.55,0.001685,,,,,,,,,10.32340006901849
+volume_spike,2024-03-11/2024-03-17,,,,,medium,,"CITIBANK, N.A.",13.0,5.0,2.6,0.002019,,,,,,,,,10.294863659545985
+volume_spike,2024-07-22/2024-07-28,,,,,medium,,JPMORGAN CHASE & CO.,12.0,4.5,2.67,0.002404,,,,,,,,,10.289065518603804
+volume_spike,2024-04-22/2024-04-28,,,,,medium,,Velocity Portfolio Group,12.0,4.5,2.67,0.002404,,,,,,,,,10.289065518603804
+volume_spike,2024-10-07/2024-10-13,,,,,medium,,"United Collection Bureau, Inc.",8.0,2.7,3.0,0.006168,,,,,,,,,10.209855627916008
+volume_spike,2024-09-16/2024-09-22,,,,,medium,,T.S. Holdings,17.0,7.2,2.34,0.001384,,,,,,,,,10.198863878499603
+volume_spike,2024-08-12/2024-08-18,,,,,medium,,"I.C. System, Inc.",26.0,12.8,2.04,0.000737,,,,,,,,,10.172532453213613
+volume_spike,2024-11-04/2024-11-10,,,,,medium,,"Spring Oaks Capital, LLC",15.0,6.2,2.4,0.002059,,,,,,,,,10.086343632289474
+volume_spike,2024-07-15/2024-07-21,,,,,medium,,NAVY FEDERAL CREDIT UNION,8.0,2.8,2.91,0.007347,,,,,,,,,10.043889954244442
+volume_spike,2024-08-26/2024-09-01,,,,,medium,,TrueAccord Corp.,8.0,2.8,2.91,0.007347,,,,,,,,,10.043889954244442
+volume_spike,2024-12-30/2025-01-05,,,,,medium,,Source Receivables Management LLC,8.0,2.8,2.91,0.007347,,,,,,,,,10.043889954244442
+correlated_spike,2024-02-12/2024-02-18,,,,,high,,,,,,,,,,,9.0,"['CAPITAL ONE FINANCIAL CORPORATION', 'CL Holdings LLC', 'CREDIT ACCEPTANCE CORPORATION', 'Diversified Adjustment Service, Inc.', 'Eastern Account Systems of Connecticut, Inc.', 'NAVY FEDERAL CREDIT UNION', 'National Credit Systems,Inc.', 'The CMI Group, Inc.', 'Velocity Portfolio Group']",2.6,"{'Attempts to collect debt not owed': 80, 'Written notification about debt': 35, 'False statements or representation': 15}",10.0
+correlated_spike,2025-01-13/2025-01-19,,,,,high,,,,,,,,,,,13.0,"['Aldous & Associates, PLLC', 'Bridgecrest Acceptance Corporation', 'CAINE & WEINER COMPANY, INC.', 'First Credit Services Inc.', 'Harris & Harris, Ltd.', 'January Technologies, Inc', 'Kikoff Inc.', 'NCB Management Services Inc.', 'OneMain Finance Corporation', 'RentDebt Automated Collections, LLC']",2.35,"{'Attempts to collect debt not owed': 66, 'False statements or representation': 35, 'Written notification about debt': 18}",10.0
+correlated_spike,2025-01-20/2025-01-26,,,,,high,,,,,,,,,,,11.0,"['Ability Recovery Services, LLC', 'Amsher Collection Services, Inc.', 'Bridgecrest Acceptance Corporation', 'Debt Recovery Solutions, LLC', 'Exeter Finance, LLC.', 'JPMORGAN CHASE & CO.', 'MRS BPO, LLC', 'Medical Data Systems, Inc.', 'The CBE Group, Inc.', 'United Collection Bureau, Inc.']",2.62,"{'Attempts to collect debt not owed': 47, 'Written notification about debt': 17, 'False statements or representation': 16}",10.0
+correlated_spike,2024-11-18/2024-11-24,,,,,high,,,,,,,,,,,5.0,"['Absolute Resolutions Corp.', 'Affirm Holdings, Inc', 'Halsted Financial Services, LLC.', 'Harris & Harris, Ltd.', 'LJ Ross Associates']",2.51,"{'Attempts to collect debt not owed': 16, 'False statements or representation': 9, 'Written notification about debt': 5}",10.0
+correlated_spike,2025-01-06/2025-01-12,,,,,high,,,,,,,,,,,8.0,"['Absolute Resolutions Corp.', 'CREDIT ACCEPTANCE CORPORATION', 'FAIR COLLECTIONS & OUTSOURCING, INC.', 'Lockhart, Morris & Montgomery Inc.', 'MRS BPO, LLC', 'NRA Group, LLC', 'Penn Credit Corporation', 'ProCollect, Inc.']",2.39,"{'Attempts to collect debt not owed': 34, 'Written notification about debt': 9, 'Took or threatened to take negative or legal action': 9}",10.0
+correlated_spike,2024-09-23/2024-09-29,,,,,high,,,,,,,,,,,9.0,"['AMERICAN EXPRESS COMPANY', 'Ability Recovery Services, LLC', 'Collection Management Holdings, LLC', 'Debt Recovery Solutions, LLC', 'JPMORGAN CHASE & CO.', 'Kriya Capital, LLC', 'NAVY FEDERAL CREDIT UNION', 'V and H Portfolio', 'WELLS FARGO & COMPANY']",2.8,"{'Attempts to collect debt not owed': 34, 'Written notification about debt': 20, 'False statements or representation': 18}",10.0
+correlated_spike,2024-07-15/2024-07-21,,,,,high,,,,,,,,,,,6.0,"['CAVALRY INVESTMENTS, LLC', 'JPMORGAN CHASE & CO.', 'NAVY FEDERAL CREDIT UNION', 'Penn Credit Corporation', 'RentDebt Automated Collections, LLC', 'WELLS FARGO & COMPANY']",2.38,"{'Attempts to collect debt not owed': 21, 'Written notification about debt': 8, 'False statements or representation': 7}",10.0
+correlated_spike,2024-03-04/2024-03-10,,,,,high,,,,,,,,,,,7.0,"['Amsher Collection Services, Inc.', 'CAVALRY INVESTMENTS, LLC', 'CCF Intermediate Holdings LLC', 'EQUIFAX, INC.', 'Experian Information Solutions Inc.', 'Spring Oaks Capital, LLC', 'TRANSUNION INTERMEDIATE HOLDINGS, INC.']",2.66,"{'Written notification about debt': 443, 'Attempts to collect debt not owed': 164, 'False statements or representation': 10}",10.0
+correlated_spike,2024-08-12/2024-08-18,,,,,high,,,,,,,,,,,6.0,"['AMERICAN EXPRESS COMPANY', 'Eastern Account Systems of Connecticut, Inc.', 'HW Holding, Inc', 'I.C. System, Inc.', 'Rent Recovery Solutions', 'Velocity Portfolio Group']",2.88,"{'Attempts to collect debt not owed': 36, 'Written notification about debt': 15, 'False statements or representation': 12}",10.0
+correlated_spike,2024-06-10/2024-06-16,,,,,high,,,,,,,,,,,7.0,"['Affirm Holdings, Inc', 'CREDIT ACCEPTANCE CORPORATION', 'Credit Corp Solutions Inc.', 'Diversified Adjustment Service, Inc.', 'Eastern Account Systems of Connecticut, Inc.', 'JPMORGAN CHASE & CO.', 'LJ Ross Associates']",2.41,"{'Attempts to collect debt not owed': 37, 'Written notification about debt': 10, 'Took or threatened to take negative or legal action': 6}",10.0
+correlated_spike,2024-04-15/2024-04-21,,,,,high,,,,,,,,,,,5.0,"['Aargon Agency, Inc.', 'Affirm Holdings, Inc', 'CLGF Holdco 1, LLC', 'MRS BPO, LLC', 'Zions Debt Holdings']",2.75,"{'Attempts to collect debt not owed': 19, 'False statements or representation': 6, 'Written notification about debt': 6}",10.0
+correlated_spike,2024-12-16/2024-12-22,,,,,high,,,,,,,,,,,6.0,"['Collection Management Holdings, LLC', 'Consumer Adjustment Company Incorporated', 'Credit Corp Solutions Inc.', 'Sequium Asset Solutions, LLC', 'Spring Oaks Capital, LLC', 'TrueAccord Corp.']",2.44,"{'Attempts to collect debt not owed': 32, 'False statements or representation': 9, 'Took or threatened to take negative or legal action': 6}",10.0
+correlated_spike,2024-12-30/2025-01-05,,,,,high,,,,,,,,,,,6.0,"['Affirm Holdings, Inc', 'Aldous & Associates, PLLC', 'Halsted Financial Services, LLC.', 'Source Receivables Management LLC', 'Southwest Credit Systems, L.P.', 'V and H Portfolio']",2.77,"{'Attempts to collect debt not owed': 28, 'Written notification about debt': 12, 'False statements or representation': 5}",10.0
+correlated_spike,2024-12-09/2024-12-15,,,,,high,,,,,,,,,,,5.0,"['Central Portfolio Control Inc.', 'Diversified Adjustment Service, Inc.', 'Eastern Account Systems of Connecticut, Inc.', 'Lockhart, Morris & Montgomery Inc.', 'ONLINE Information Services, Inc.']",2.49,"{'Attempts to collect debt not owed': 13, 'False statements or representation': 12, 'Written notification about debt': 5}",10.0
+correlated_spike,2024-03-11/2024-03-17,,,,,high,,,,,,,,,,,7.0,"['CITIBANK, N.A.', 'EQUIFAX, INC.', 'Experian Information Solutions Inc.', 'Medical Data Systems, Inc.', 'NRA Group, LLC', 'ONLINE Information Services, Inc.', 'TRANSUNION INTERMEDIATE HOLDINGS, INC.']",2.74,"{'Written notification about debt': 517, 'Attempts to collect debt not owed': 461, 'Took or threatened to take negative or legal action': 9}",10.0
+correlated_spike,2024-02-19/2024-02-25,,,,,high,,,,,,,,,,,8.0,"['AMERICAN EXPRESS COMPANY', 'Aargon Agency, Inc.', 'CL Holdings LLC', 'Central Portfolio Control Inc.', 'Credit Control, LLC', 'FAIR COLLECTIONS & OUTSOURCING, INC.', 'Lockhart, Morris & Montgomery Inc.', 'W&A Intermediate Co., LLC']",2.74,"{'Attempts to collect debt not owed': 106, 'Written notification about debt': 54, 'Took or threatened to take negative or legal action': 19}",10.0
+correlated_spike,2024-01-22/2024-01-28,,,,,high,,,,,,,,,,,6.0,"['CCS Financial Services, Inc.', 'EQUIFAX, INC.', 'Experian Information Solutions Inc.', 'JPMORGAN CHASE & CO.', 'TRANSUNION INTERMEDIATE HOLDINGS, INC.', 'TRANSWORLD SYSTEMS INC']",2.14,"{'Attempts to collect debt not owed': 225, 'Written notification about debt': 207, 'Took or threatened to take negative or legal action': 20}",10.0
+volume_spike,2024-09-30/2024-10-06,,,,,medium,,AMERICAN EXPRESS COMPANY,13.0,5.2,2.48,0.003041,,,,,,,,,9.996983565574563
+cluster_shrinking,2024-03-25/2024-03-31,8.0,7.31,11.75,-4.98,medium,"xxxx, xxxx xxxx, xx, debt, account",,,,,,,,,,,,,,9.98
+volume_spike,2024-10-28/2024-11-03,,,,,medium,,TrueAccord Corp.,9.0,3.2,2.77,0.006291,,,,,,,,,9.971280307911568
+volume_spike,2024-08-12/2024-08-18,,,,,medium,,Velocity Portfolio Group,9.0,3.2,2.77,0.006291,,,,,,,,,9.971280307911568
+volume_spike,2024-09-23/2024-09-29,,,,,medium,,NAVY FEDERAL CREDIT UNION,10.0,3.8,2.67,0.005307,,,,,,,,,9.945150904187187
+volume_spike,2024-01-08/2024-01-14,,,,,medium,,"W&A Intermediate Co., LLC",11.0,4.2,2.59,0.004434,,,,,,,,,9.943204301426888
+volume_spike,2025-01-13/2025-01-19,,,,,medium,,"CAINE & WEINER COMPANY, INC.",21.0,10.0,2.1,0.001588,,,,,,,,,9.899149474560405
+cluster_growing,2024-09-16/2024-09-22,19.0,5.97,3.14,4.87,medium,"discrepancies accounts, 605b review, discrepancies, importance removing, quite concerning",,,,,,,,,,,,,,9.870000000000001
+cluster_growing,2024-09-16/2024-09-22,3.0,2.91,1.11,4.85,medium,"accounts, look documents, accordance fcra, report accordance, 605b look",,,,,,,,,,,,,,9.85
+cluster_shrinking,2024-05-13/2024-05-19,21.0,1.68,4.5,-4.82,medium,"accounts, listed accounts, listed, accounts credit, fcra 605b",,,,,,,,,,,,,,9.82
+cluster_shrinking,2024-04-29/2024-05-05,25.0,1.56,4.07,-4.79,medium,"usc, 15 usc, 15, evidence, usc 1681i",,,,,,,,,,,,,,9.79
+volume_spike,2023-12-18/2023-12-24,,,,,medium,,SYNCHRONY FINANCIAL,14.0,6.0,2.33,0.003628,,,,,,,,,9.770332709641313
+volume_spike,2024-02-12/2024-02-18,,,,,medium,,CAPITAL ONE FINANCIAL CORPORATION,17.0,7.8,2.19,0.002722,,,,,,,,,9.755111863177707
+cluster_shrinking,2024-05-27/2024-06-02,3.0,3.29,6.62,-4.75,medium,"accounts, look documents, accordance fcra, report accordance, 605b look",,,,,,,,,,,,,,9.75
+cluster_shrinking,2024-03-18/2024-03-24,6.0,10.41,15.02,-4.73,medium,"xxxx, xxxx xxxx, debt, account, credit",,,,,,,,,,,,,,9.73
+cluster_growing,2024-07-15/2024-07-21,19.0,7.58,4.45,4.69,medium,"discrepancies accounts, 605b review, discrepancies, importance removing, quite concerning",,,,,,,,,,,,,,9.690000000000001
+cluster_shrinking,2024-04-01/2024-04-07,11.0,3.02,5.98,-4.68,medium,"xxxx, credit, account, reporting, information",,,,,,,,,,,,,,9.68
+cluster_shrinking,2024-11-04/2024-11-10,20.0,3.81,7.17,-4.68,medium,"credit report, report, credit, accounts, fraudulent",,,,,,,,,,,,,,9.68
+cluster_growing,2024-07-01/2024-07-07,5.0,4.49,2.02,4.67,medium,"debt, xxxx, collection, validation, request",,,,,,,,,,,,,,9.67
+volume_spike,2024-12-30/2025-01-05,,,,,medium,,"Southwest Credit Systems, L.P.",12.0,5.0,2.4,0.005453,,,,,,,,,9.663364494348857
+volume_spike,2025-01-13/2025-01-19,,,,,medium,,NCB Management Services Inc.,12.0,5.0,2.4,0.005453,,,,,,,,,9.663364494348857
+cluster_shrinking,2024-07-08/2024-07-14,12.0,0.64,2.92,-4.66,medium,"code 1692e, 1692e, 15 code, code, nature legal",,,,,,,,,,,,,,9.66
+cluster_growing,2024-05-20/2024-05-26,26.0,4.31,2.17,4.66,medium,"transactions, wish, formally, transactions consumer, inclusion specific",,,,,,,,,,,,,,9.66
+cluster_shrinking,2024-07-08/2024-07-14,21.0,0.56,2.78,-4.65,medium,"accounts, listed accounts, listed, accounts credit, fcra 605b",,,,,,,,,,,,,,9.65
+volume_spike,2024-01-01/2024-01-07,,,,,medium,,"I.C. System, Inc.",18.0,8.5,2.12,0.003002,,,,,,,,,9.64258929762591
+cluster_growing,2023-11-27/2023-12-03,22.0,10.09,5.42,4.63,medium,"debt, collector, debt collector, consumer, alleged",,,,,,,,,,,,,,9.629999999999999
+cluster_growing,2024-04-29/2024-05-05,10.0,2.92,1.3,4.59,medium,"recognize significance, ve identified, inaccurate troubling, erroneous entries, identified accounts",,,,,,,,,,,,,,9.59
+volume_spike,2025-01-06/2025-01-12,,,,,medium,,"FAIR COLLECTIONS & OUTSOURCING, INC.",10.0,4.0,2.5,0.008132,,,,,,,,,9.589802624693437
+volume_spike,2024-09-23/2024-09-29,,,,,medium,,AMERICAN EXPRESS COMPANY,10.0,4.0,2.5,0.008132,,,,,,,,,9.589802624693437
+volume_spike,2024-04-08/2024-04-14,,,,,medium,,NCB Management Services Inc.,10.0,4.0,2.5,0.008132,,,,,,,,,9.589802624693437
+volume_spike,2024-04-15/2024-04-21,,,,,medium,,"Affirm Holdings, Inc",10.0,4.0,2.5,0.008132,,,,,,,,,9.589802624693437
+volume_spike,2024-09-23/2024-09-29,,,,,medium,,JPMORGAN CHASE & CO.,10.0,4.0,2.5,0.008132,,,,,,,,,9.589802624693437
+volume_spike,2024-03-18/2024-03-24,,,,,medium,,Velocity Portfolio Group,9.0,3.5,2.57,0.009874,,,,,,,,,9.575506872718124
+volume_spike,2024-12-16/2024-12-22,,,,,medium,,"Collection Management Holdings, LLC",9.0,3.5,2.57,0.009874,,,,,,,,,9.575506872718124
+volume_spike,2025-01-06/2025-01-12,,,,,medium,,Absolute Resolutions Corp.,9.0,3.5,2.57,0.009874,,,,,,,,,9.575506872718124
+volume_spike,2024-02-05/2024-02-11,,,,,medium,,TrueAccord Corp.,9.0,3.5,2.57,0.009874,,,,,,,,,9.575506872718124
+volume_spike,2024-02-19/2024-02-25,,,,,medium,,"FAIR COLLECTIONS & OUTSOURCING, INC.",9.0,3.5,2.57,0.009874,,,,,,,,,9.575506872718124
+cluster_growing,2024-04-08/2024-04-14,28.0,13.05,9.34,4.57,medium,"need reporting, reporting correction, correction company, accounts need, identified inaccurate",,,,,,,,,,,,,,9.57
+cluster_growing,2024-04-22/2024-04-28,28.0,15.58,11.58,4.57,medium,"need reporting, reporting correction, correction company, accounts need, identified inaccurate",,,,,,,,,,,,,,9.57
+cluster_shrinking,2024-07-22/2024-07-28,16.0,5.83,10.13,-4.57,medium,"transactions, transactions report, authorize, report, did",,,,,,,,,,,,,,9.57
+cluster_shrinking,2024-03-04/2024-03-10,8.0,12.35,17.43,-4.55,medium,"xxxx, xxxx xxxx, xx, debt, account",,,,,,,,,,,,,,9.55
+cluster_shrinking,2024-11-25/2024-12-01,13.0,0.89,3.44,-4.54,medium,"creditor, debt, original creditor, original, dispute",,,,,,,,,,,,,,9.54
+cluster_growing,2024-05-06/2024-05-12,15.0,7.95,5.02,4.51,medium,"blocked, transactions, want, transactions blocked, removed important",,,,,,,,,,,,,,9.51
+cluster_shrinking,2024-06-24/2024-06-30,3.0,1.03,3.3,-4.51,medium,"accounts, look documents, accordance fcra, report accordance, 605b look",,,,,,,,,,,,,,9.51
+volume_spike,2025-01-13/2025-01-19,,,,,medium,,"Aldous & Associates, PLLC",13.0,5.8,2.26,0.006344,,,,,,,,,9.457636818844701
+cluster_shrinking,2024-06-10/2024-06-16,19.0,2.55,5.54,-4.4,medium,"discrepancies accounts, 605b review, discrepancies, importance removing, quite concerning",,,,,,,,,,,,,,9.4
+volume_spike,2025-01-13/2025-01-19,,,,,medium,,"Harris & Harris, Ltd.",17.0,8.2,2.06,0.004996,,,,,,,,,9.361377561605059
+cluster_shrinking,2024-04-22/2024-04-28,2.0,0.28,1.58,-4.35,medium,"inaccurate accounts, identified inaccurate, report identified, inaccurate, reviewing credit",,,,,,,,,,,,,,9.35
+cluster_shrinking,2024-12-16/2024-12-22,16.0,1.66,4.02,-4.33,medium,"transactions, transactions report, authorize, report, did",,,,,,,,,,,,,,9.33
+cluster_growing,2024-05-20/2024-05-26,21.0,6.5,3.92,4.33,medium,"accounts, listed accounts, listed, accounts credit, fcra 605b",,,,,,,,,,,,,,9.33
+cluster_growing,2024-11-04/2024-11-10,11.0,7.14,4.4,4.32,medium,"xxxx, credit, account, reporting, information",,,,,,,,,,,,,,9.32
+volume_spike,2025-01-20/2025-01-26,,,,,medium,,"Debt Recovery Solutions, LLC",12.0,5.3,2.25,0.008802,,,,,,,,,9.30541863083903
+cluster_shrinking,2024-12-30/2025-01-05,20.0,2.18,4.78,-4.27,medium,"credit report, report, credit, accounts, fraudulent",,,,,,,,,,,,,,9.27
+cluster_growing,2024-04-08/2024-04-14,21.0,12.18,8.81,4.27,medium,"accounts, listed accounts, listed, accounts credit, fcra 605b",,,,,,,,,,,,,,9.27
+cluster_growing,2024-06-24/2024-06-30,10.0,12.77,8.95,4.26,medium,"recognize significance, ve identified, inaccurate troubling, erroneous entries, identified accounts",,,,,,,,,,,,,,9.26
+cluster_growing,2024-08-19/2024-08-25,5.0,6.02,3.47,4.26,medium,"debt, xxxx, collection, validation, request",,,,,,,,,,,,,,9.26
+cluster_shrinking,2024-04-01/2024-04-07,24.0,0.32,1.73,-4.23,medium,"proper notification, notification, proper, debt did, unaware debt",,,,,,,,,,,,,,9.23
+volume_spike,2024-02-26/2024-03-03,,,,,medium,,"CAINE & WEINER COMPANY, INC.",13.0,6.0,2.17,0.008827,,,,,,,,,9.224186868492593
+cluster_growing,2024-12-09/2024-12-15,7.0,2.8,1.26,4.22,medium,"remove misleading, inclusion crucial, crucial promptly, authorized inclusion, request elimination",,,,,,,,,,,,,,9.219999999999999
+cluster_shrinking,2024-05-13/2024-05-19,20.0,1.98,4.44,-4.22,medium,"credit report, report, credit, accounts, fraudulent",,,,,,,,,,,,,,9.219999999999999
+cluster_growing,2024-07-22/2024-07-28,10.0,12.0,8.15,4.19,medium,"recognize significance, ve identified, inaccurate troubling, erroneous entries, identified accounts",,,,,,,,,,,,,,9.190000000000001
+volume_spike,2025-01-06/2025-01-12,,,,,medium,,"ProCollect, Inc.",15.0,7.2,2.07,0.007726,,,,,,,,,9.182045290569992
+cluster_shrinking,2024-04-01/2024-04-07,8.0,6.36,9.73,-4.18,medium,"xxxx, xxxx xxxx, xx, debt, account",,,,,,,,,,,,,,9.18
+cluster_shrinking,2025-01-20/2025-01-26,20.0,1.06,2.5,-4.15,medium,"credit report, report, credit, accounts, fraudulent",,,,,,,,,,,,,,9.15
+cluster_growing,2024-04-29/2024-05-05,15.0,5.97,3.66,4.15,medium,"blocked, transactions, want, transactions blocked, removed important",,,,,,,,,,,,,,9.15
+cluster_shrinking,2024-03-18/2024-03-24,8.0,9.55,13.4,-4.14,medium,"xxxx, xxxx xxxx, xx, debt, account",,,,,,,,,,,,,,9.14
+volume_spike,2024-02-19/2024-02-25,,,,,medium,,"W&A Intermediate Co., LLC",14.0,6.8,2.07,0.009627,,,,,,,,,9.08650902367362
+volume_spike,2024-03-25/2024-03-31,,,,,medium,,T.S. Holdings,14.0,6.8,2.07,0.009627,,,,,,,,,9.08650902367362
+cluster_shrinking,2024-10-07/2024-10-13,22.0,3.99,6.75,-4.08,medium,"debt, collector, debt collector, consumer, alleged",,,,,,,,,,,,,,9.08
+cluster_shrinking,2024-08-26/2024-09-01,19.0,2.72,5.3,-4.08,medium,"discrepancies accounts, 605b review, discrepancies, importance removing, quite concerning",,,,,,,,,,,,,,9.08
+cluster_shrinking,2024-05-06/2024-05-12,2.0,0.53,2.06,-4.08,medium,"inaccurate accounts, identified inaccurate, report identified, inaccurate, reviewing credit",,,,,,,,,,,,,,9.08
+cluster_shrinking,2024-07-22/2024-07-28,19.0,2.37,5.12,-4.07,medium,"discrepancies accounts, 605b review, discrepancies, importance removing, quite concerning",,,,,,,,,,,,,,9.07
+cluster_shrinking,2024-09-23/2024-09-29,19.0,1.6,3.72,-4.07,medium,"discrepancies accounts, 605b review, discrepancies, importance removing, quite concerning",,,,,,,,,,,,,,9.07
+cluster_shrinking,2024-05-20/2024-05-26,2.0,0.27,1.62,-4.0,medium,"inaccurate accounts, identified inaccurate, report identified, inaccurate, reviewing credit",,,,,,,,,,,,,,9.0
+cluster_shrinking,2024-03-18/2024-03-24,29.0,1.84,3.88,-4.0,medium,"1006, cfr 1006, 34, 12 cfr, cfr",,,,,,,,,,,,,,9.0
+cluster_shrinking,2024-05-27/2024-06-02,11.0,2.73,5.21,-3.95,medium,"xxxx, credit, account, reporting, information",,,,,,,,,,,,,,8.95
+cluster_shrinking,2024-05-06/2024-05-12,25.0,1.72,3.74,-3.93,medium,"usc, 15 usc, 15, evidence, usc 1681i",,,,,,,,,,,,,,8.93
+cluster_shrinking,2024-01-29/2024-02-04,11.0,7.11,11.74,-3.92,medium,"xxxx, credit, account, reporting, information",,,,,,,,,,,,,,8.92
+cluster_shrinking,2024-02-19/2024-02-25,18.0,17.36,22.59,-3.91,medium,"debt, company, xxxx, credit, account",,,,,,,,,,,,,,8.91
+cluster_shrinking,2024-03-25/2024-03-31,18.0,12.24,16.31,-3.91,medium,"debt, company, xxxx, credit, account",,,,,,,,,,,,,,8.91
+cluster_growing,2024-04-29/2024-05-05,11.0,6.42,4.13,3.9,medium,"xxxx, credit, account, reporting, information",,,,,,,,,,,,,,8.9
+cluster_shrinking,2024-05-27/2024-06-02,25.0,0.42,1.84,-3.87,medium,"usc, 15 usc, 15, evidence, usc 1681i",,,,,,,,,,,,,,8.870000000000001
+cluster_shrinking,2024-05-27/2024-06-02,19.0,0.98,2.72,-3.87,medium,"discrepancies accounts, 605b review, discrepancies, importance removing, quite concerning",,,,,,,,,,,,,,8.870000000000001
+cluster_shrinking,2024-08-12/2024-08-18,22.0,3.38,5.94,-3.86,medium,"debt, collector, debt collector, consumer, alleged",,,,,,,,,,,,,,8.86
+cluster_shrinking,2025-01-13/2025-01-19,20.0,1.6,3.26,-3.86,medium,"credit report, report, credit, accounts, fraudulent",,,,,,,,,,,,,,8.86
+cluster_growing,2024-09-30/2024-10-06,13.0,3.11,1.55,3.85,medium,"creditor, debt, original creditor, original, dispute",,,,,,,,,,,,,,8.85
+cluster_growing,2024-07-29/2024-08-04,10.0,11.23,7.8,3.84,medium,"recognize significance, ve identified, inaccurate troubling, erroneous entries, identified accounts",,,,,,,,,,,,,,8.84
+cluster_shrinking,2024-11-25/2024-12-01,19.0,0.36,1.96,-3.8,medium,"discrepancies accounts, 605b review, discrepancies, importance removing, quite concerning",,,,,,,,,,,,,,8.8
+cluster_shrinking,2024-02-19/2024-02-25,4.0,2.6,5.17,-3.78,medium,"identity, theft, identity theft, xxxx, account",,,,,,,,,,,,,,8.78
+cluster_growing,2024-08-12/2024-08-18,5.0,4.78,2.81,3.77,medium,"debt, xxxx, collection, validation, request",,,,,,,,,,,,,,8.77
+cluster_growing,2024-05-06/2024-05-12,4.0,2.98,1.56,3.76,medium,"identity, theft, identity theft, xxxx, account",,,,,,,,,,,,,,8.76
+cluster_shrinking,2024-03-11/2024-03-17,14.0,4.58,7.03,-3.7,medium,"xxxx, xx, xx xxxx, xx xx, xxxx xxxx",,,,,,,,,,,,,,8.7
+cluster_shrinking,2024-08-19/2024-08-25,16.0,4.76,7.65,-3.69,medium,"transactions, transactions report, authorize, report, did",,,,,,,,,,,,,,8.69
+cluster_shrinking,2024-07-29/2024-08-04,11.0,2.06,4.36,-3.69,medium,"xxxx, credit, account, reporting, information",,,,,,,,,,,,,,8.69
+cluster_shrinking,2024-09-09/2024-09-15,10.0,5.53,8.54,-3.68,medium,"recognize significance, ve identified, inaccurate troubling, erroneous entries, identified accounts",,,,,,,,,,,,,,8.68
+cluster_shrinking,2024-03-04/2024-03-10,29.0,2.66,4.92,-3.65,medium,"1006, cfr 1006, 34, 12 cfr, cfr",,,,,,,,,,,,,,8.65
+cluster_shrinking,2024-04-08/2024-04-14,29.0,0.69,1.94,-3.62,medium,"1006, cfr 1006, 34, 12 cfr, cfr",,,,,,,,,,,,,,8.620000000000001
+cluster_shrinking,2024-03-04/2024-03-10,4.0,1.71,3.62,-3.62,medium,"identity, theft, identity theft, xxxx, account",,,,,,,,,,,,,,8.620000000000001
+cluster_shrinking,2024-03-11/2024-03-17,22.0,3.0,5.02,-3.61,medium,"debt, collector, debt collector, consumer, alleged",,,,,,,,,,,,,,8.61
+cluster_growing,2024-12-30/2025-01-05,4.0,4.51,2.66,3.6,medium,"identity, theft, identity theft, xxxx, account",,,,,,,,,,,,,,8.6
+cluster_growing,2024-08-05/2024-08-11,9.0,4.04,2.24,3.6,medium,"invaluable ensuring, feedback insights, expertise invaluable, completeness feedback, review examine",,,,,,,,,,,,,,8.6
+cluster_growing,2024-01-29/2024-02-04,18.0,25.76,20.21,3.57,medium,"debt, company, xxxx, credit, account",,,,,,,,,,,,,,8.57
+cluster_growing,2024-04-15/2024-04-21,28.0,13.45,10.45,3.57,medium,"need reporting, reporting correction, correction company, accounts need, identified inaccurate",,,,,,,,,,,,,,8.57
+cluster_shrinking,2024-03-11/2024-03-17,23.0,3.32,5.38,-3.55,medium,"xx, xx xx, xx year, year, xxxx",,,,,,,,,,,,,,8.55
+cluster_shrinking,2024-11-18/2024-11-24,9.0,2.26,4.34,-3.51,medium,"invaluable ensuring, feedback insights, expertise invaluable, completeness feedback, review examine",,,,,,,,,,,,,,8.51
+cluster_shrinking,2024-03-11/2024-03-17,4.0,1.42,2.9,-3.5,medium,"identity, theft, identity theft, xxxx, account",,,,,,,,,,,,,,8.5
+cluster_shrinking,2024-12-02/2024-12-08,13.0,1.45,3.11,-3.5,medium,"creditor, debt, original creditor, original, dispute",,,,,,,,,,,,,,8.5
+cluster_shrinking,2024-03-04/2024-03-10,22.0,3.28,5.59,-3.5,medium,"debt, collector, debt collector, consumer, alleged",,,,,,,,,,,,,,8.5
+cluster_growing,2024-06-24/2024-06-30,19.0,7.04,4.71,3.48,medium,"discrepancies accounts, 605b review, discrepancies, importance removing, quite concerning",,,,,,,,,,,,,,8.48
+cluster_shrinking,2024-09-30/2024-10-06,29.0,0.21,1.26,-3.45,medium,"1006, cfr 1006, 34, 12 cfr, cfr",,,,,,,,,,,,,,8.45
+cluster_shrinking,2024-06-03/2024-06-09,26.0,2.52,4.53,-3.45,medium,"transactions, wish, formally, transactions consumer, inclusion specific",,,,,,,,,,,,,,8.45
+cluster_shrinking,2024-03-04/2024-03-10,6.0,14.95,18.97,-3.45,medium,"xxxx, xxxx xxxx, debt, account, credit",,,,,,,,,,,,,,8.45
+cluster_shrinking,2024-09-02/2024-09-08,16.0,4.87,7.64,-3.44,medium,"transactions, transactions report, authorize, report, did",,,,,,,,,,,,,,8.44
+cluster_growing,2024-05-20/2024-05-26,5.0,3.9,2.31,3.43,medium,"debt, xxxx, collection, validation, request",,,,,,,,,,,,,,8.43
+cluster_growing,2024-02-05/2024-02-11,8.0,18.88,14.34,3.4,medium,"xxxx, xxxx xxxx, xx, debt, account",,,,,,,,,,,,,,8.4
+cluster_growing,2024-09-23/2024-09-29,22.0,6.95,4.75,3.39,medium,"debt, collector, debt collector, consumer, alleged",,,,,,,,,,,,,,8.39
+cluster_shrinking,2025-01-20/2025-01-26,16.0,2.04,3.45,-3.39,medium,"transactions, transactions report, authorize, report, did",,,,,,,,,,,,,,8.39
+cluster_shrinking,2024-05-13/2024-05-19,2.0,0.51,1.75,-3.37,medium,"inaccurate accounts, identified inaccurate, report identified, inaccurate, reviewing credit",,,,,,,,,,,,,,8.370000000000001
+cluster_shrinking,2024-03-18/2024-03-24,11.0,4.96,7.34,-3.36,medium,"xxxx, credit, account, reporting, information",,,,,,,,,,,,,,8.36
+cluster_shrinking,2024-12-09/2024-12-15,9.0,1.34,2.87,-3.34,medium,"invaluable ensuring, feedback insights, expertise invaluable, completeness feedback, review examine",,,,,,,,,,,,,,8.34
+cluster_growing,2024-08-12/2024-08-18,12.0,3.12,1.74,3.31,medium,"code 1692e, 1692e, 15 code, code, nature legal",,,,,,,,,,,,,,8.31
+cluster_shrinking,2025-01-13/2025-01-19,29.0,0.7,1.72,-3.28,medium,"1006, cfr 1006, 34, 12 cfr, cfr",,,,,,,,,,,,,,8.28
+cluster_growing,2024-12-02/2024-12-08,11.0,8.21,5.89,3.26,medium,"xxxx, credit, account, reporting, information",,,,,,,,,,,,,,8.26
+cluster_shrinking,2024-07-15/2024-07-21,10.0,7.08,9.91,-3.21,medium,"recognize significance, ve identified, inaccurate troubling, erroneous entries, identified accounts",,,,,,,,,,,,,,8.21
+cluster_shrinking,2024-09-30/2024-10-06,9.0,2.83,4.79,-3.2,medium,"invaluable ensuring, feedback insights, expertise invaluable, completeness feedback, review examine",,,,,,,,,,,,,,8.2
+cluster_growing,2024-07-22/2024-07-28,18.0,18.85,15.09,3.19,medium,"debt, company, xxxx, credit, account",,,,,,,,,,,,,,8.19
+cluster_shrinking,2024-06-10/2024-06-16,26.0,2.07,3.92,-3.18,medium,"transactions, wish, formally, transactions consumer, inclusion specific",,,,,,,,,,,,,,8.18
+cluster_growing,2024-11-04/2024-11-10,19.0,3.26,1.91,3.17,medium,"discrepancies accounts, 605b review, discrepancies, importance removing, quite concerning",,,,,,,,,,,,,,8.17
+cluster_shrinking,2024-08-05/2024-08-11,18.0,12.61,16.22,-3.17,medium,"debt, company, xxxx, credit, account",,,,,,,,,,,,,,8.17
+cluster_shrinking,2023-12-18/2023-12-24,18.0,15.74,20.72,-3.16,medium,"debt, company, xxxx, credit, account",,,,,,,,,,,,,,8.16
+cluster_growing,2024-07-01/2024-07-07,14.0,7.48,5.03,3.15,medium,"xxxx, xx, xx xxxx, xx xx, xxxx xxxx",,,,,,,,,,,,,,8.15
+cluster_shrinking,2025-01-27/2025-02-02,29.0,0.35,1.22,-3.14,medium,"1006, cfr 1006, 34, 12 cfr, cfr",,,,,,,,,,,,,,8.14
+cluster_growing,2024-04-22/2024-04-28,25.0,5.03,3.45,3.11,medium,"usc, 15 usc, 15, evidence, usc 1681i",,,,,,,,,,,,,,8.11
+cluster_shrinking,2024-02-26/2024-03-03,4.0,2.49,4.67,-3.11,medium,"identity, theft, identity theft, xxxx, account",,,,,,,,,,,,,,8.11
+cluster_growing,2024-09-23/2024-09-29,5.0,7.75,5.61,3.08,medium,"debt, xxxx, collection, validation, request",,,,,,,,,,,,,,8.08
+cluster_shrinking,2024-11-18/2024-11-24,29.0,0.15,1.01,-3.08,medium,"1006, cfr 1006, 34, 12 cfr, cfr",,,,,,,,,,,,,,8.08
+cluster_shrinking,2024-12-09/2024-12-15,18.0,13.08,16.35,-3.08,medium,"debt, company, xxxx, credit, account",,,,,,,,,,,,,,8.08
+cluster_growing,2024-02-26/2024-03-03,29.0,5.75,3.64,3.07,medium,"1006, cfr 1006, 34, 12 cfr, cfr",,,,,,,,,,,,,,8.07
+cluster_shrinking,2024-12-23/2024-12-29,13.0,0.17,1.13,-3.07,medium,"creditor, debt, original creditor, original, dispute",,,,,,,,,,,,,,8.07
+cluster_growing,2024-07-15/2024-07-21,29.0,2.36,1.24,3.06,medium,"1006, cfr 1006, 34, 12 cfr, cfr",,,,,,,,,,,,,,8.06
+cluster_growing,2025-01-13/2025-01-19,11.0,8.7,6.65,3.06,medium,"xxxx, credit, account, reporting, information",,,,,,,,,,,,,,8.06
+cluster_shrinking,2024-01-15/2024-01-21,22.0,3.54,6.38,-3.06,medium,"debt, collector, debt collector, consumer, alleged",,,,,,,,,,,,,,8.06
+cluster_shrinking,2024-06-24/2024-06-30,29.0,0.29,1.23,-3.04,medium,"1006, cfr 1006, 34, 12 cfr, cfr",,,,,,,,,,,,,,8.04
+cluster_growing,2024-06-10/2024-06-16,22.0,5.74,3.85,3.03,medium,"debt, collector, debt collector, consumer, alleged",,,,,,,,,,,,,,8.03
+cluster_growing,2024-04-22/2024-04-28,11.0,5.52,3.91,3.03,medium,"xxxx, credit, account, reporting, information",,,,,,,,,,,,,,8.03
+cluster_shrinking,2024-11-11/2024-11-17,20.0,4.03,6.14,-3.0,medium,"credit report, report, credit, accounts, fraudulent",,,,,,,,,,,,,,8.0
+volume_spike,2025-01-13/2025-01-19,,,,,low,,ENCORE CAPITAL GROUP INC.,98.0,58.2,1.68,1e-06,,,,,,,,,7.679956572723137
+volume_spike,2024-03-18/2024-03-24,,,,,low,,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",259.0,188.0,1.38,1e-06,,,,,,,,,7.379956572723137
+volume_spike,2024-03-18/2024-03-24,,,,,low,,"EQUIFAX, INC.",216.0,154.5,1.4,2e-06,,,,,,,,,7.098948290154773
+volume_spike,2025-01-13/2025-01-19,,,,,low,,CAPITAL ONE FINANCIAL CORPORATION,44.0,22.5,1.96,3.9e-05,,,,,,,,,6.368934279399334
+volume_spike,2024-08-12/2024-08-18,,,,,low,,"EQUIFAX, INC.",172.0,122.0,1.41,1.1e-05,,,,,,,,,6.368603366728068
+volume_spike,2024-10-07/2024-10-13,,,,,low,,"EQUIFAX, INC.",180.0,128.8,1.4,1.2e-05,,,,,,,,,6.320815134846772
+volume_spike,2023-11-27/2023-12-03,,,,,low,,"EQUIFAX, INC.",60.0,33.8,1.78,2.9e-05,,,,,,,,,6.317600504536447
+volume_spike,2025-01-20/2025-01-26,,,,,low,,Resurgent Capital Services L.P.,163.0,114.8,1.42,1.3e-05,,,,,,,,,6.306053306979228
+volume_spike,2024-04-15/2024-04-21,,,,,low,,Experian Information Solutions Inc.,319.0,250.0,1.28,1.6e-05,,,,,,,,,6.075877303012046
+volume_spike,2024-03-18/2024-03-24,,,,,low,,Experian Information Solutions Inc.,222.0,166.8,1.33,2.6e-05,,,,,,,,,5.915024981669003
+volume_spike,2024-10-07/2024-10-13,,,,,low,,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",189.0,139.8,1.35,4.3e-05,,,,,,,,,5.716530534434421
+volume_spike,2023-11-27/2023-12-03,,,,,low,,Experian Information Solutions Inc.,71.0,44.2,1.6,0.00013,,,,,,,,,5.4860563136206135
+volume_spike,2025-01-20/2025-01-26,,,,,low,,CL Holdings LLC,94.0,62.2,1.51,0.000106,,,,,,,,,5.484693725023647
+volume_spike,2025-01-20/2025-01-26,,,,,low,,CAPITAL ONE FINANCIAL CORPORATION,47.0,26.8,1.76,0.000249,,,,,,,,,5.3638004784888444
+volume_spike,2025-01-20/2025-01-26,,,,,low,,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",135.0,96.2,1.4,0.000111,,,,,,,,,5.354676629957229
+volume_spike,2025-01-13/2025-01-19,,,,,low,,"Portfolio Recovery Associates, LLC",82.0,53.2,1.54,0.000154,,,,,,,,,5.352478997154225
+volume_spike,2024-03-11/2024-03-17,,,,,low,,"I.C. System, Inc.",30.0,15.5,1.94,0.000699,,,,,,,,,5.095522762123496
+correlated_spike,2024-09-02/2024-09-08,,,,,medium,,,,,,,,,,,3.0,"['NRA Group, LLC', 'ProCollect, Inc.', 'U.S. BANCORP']",2.34,"{'Written notification about debt': 8, 'Attempts to collect debt not owed': 8, 'Took or threatened to take negative or legal action': 2}",5.0
+correlated_spike,2024-09-30/2024-10-06,,,,,medium,,,,,,,,,,,4.0,"['AMERICAN EXPRESS COMPANY', 'Collection Management Holdings, LLC', 'Self Financial Inc.', 'Sequium Asset Solutions, LLC']",2.87,"{'Took or threatened to take negative or legal action': 12, 'Attempts to collect debt not owed': 10, 'Written notification about debt': 9}",5.0
+correlated_spike,2024-10-21/2024-10-27,,,,,medium,,,,,,,,,,,4.0,"['Aargon Agency, Inc.', 'Credit Control, LLC', 'SANTANDER HOLDINGS USA, INC.', 'Velocity Portfolio Group']",2.81,"{'Attempts to collect debt not owed': 12, 'Written notification about debt': 9, 'False statements or representation': 8}",5.0
+correlated_spike,2024-07-22/2024-07-28,,,,,medium,,,,,,,,,,,3.0,"['Collection Management Holdings, LLC', 'JPMORGAN CHASE & CO.', 'Penn Credit Corporation']",2.45,"{'Attempts to collect debt not owed': 11, 'Written notification about debt': 6, 'Threatened to contact someone or share information improperly': 3}",5.0
+correlated_spike,2024-03-18/2024-03-24,,,,,medium,,,,,,,,,,,3.0,"['CAVALRY INVESTMENTS, LLC', 'Spring Oaks Capital, LLC', 'Velocity Portfolio Group']",2.3,"{'Written notification about debt': 14, 'Attempts to collect debt not owed': 9, 'Took or threatened to take negative or legal action': 3}",5.0
+correlated_spike,2024-04-08/2024-04-14,,,,,medium,,,,,,,,,,,4.0,"['Credit Control, LLC', 'Lockhart, Morris & Montgomery Inc.', 'NCB Management Services Inc.', 'ProCollect, Inc.']",2.43,"{'Attempts to collect debt not owed': 18, 'Written notification about debt': 9, 'False statements or representation': 3}",5.0
+correlated_spike,2024-07-01/2024-07-07,,,,,medium,,,,,,,,,,,3.0,"['ONLINE Information Services, Inc.', 'Sequium Asset Solutions, LLC', 'Source Receivables Management LLC']",2.49,"{'Attempts to collect debt not owed': 11, 'Written notification about debt': 4, 'Took or threatened to take negative or legal action': 2}",5.0
+novel_cluster,2024-08-12/2024-08-18,,,,,medium,,,,,,,76.0,1507.0,5.04,"[9835903, 9775264, 9841160, 9816745, 9796713]",,,,,5.0
+novel_cluster,2024-08-05/2024-08-11,,,,,medium,,,,,,,63.0,1261.0,5.0,"[9733752, 9777900, 9738838, 9708651, 9703471]",,,,,5.0
+novel_cluster,2024-07-29/2024-08-04,,,,,medium,,,,,,,61.0,1211.0,5.04,"[9699484, 9655077, 9681433, 9698789, 9680050]",,,,,5.0
+novel_cluster,2024-08-26/2024-09-01,,,,,medium,,,,,,,72.0,1436.0,5.01,"[9974182, 9936605, 9949891, 9947092, 9928472]",,,,,5.0
+novel_cluster,2024-09-16/2024-09-22,,,,,medium,,,,,,,66.0,1307.0,5.05,"[10191924, 10178177, 10170882, 10197365, 10128787]",,,,,5.0
+novel_cluster,2024-09-23/2024-09-29,,,,,medium,,,,,,,75.0,1496.0,5.01,"[10281061, 10226034, 10264548, 10217931, 10259994]",,,,,5.0
+novel_cluster,2024-09-02/2024-09-08,,,,,medium,,,,,,,63.0,1252.0,5.03,"[10063208, 10059424, 10000288, 10029140, 9998385]",,,,,5.0
+novel_cluster,2024-09-09/2024-09-15,,,,,medium,,,,,,,68.0,1357.0,5.01,"[10130861, 10086403, 10124371, 10124512, 10123953]",,,,,5.0
+novel_cluster,2024-10-14/2024-10-20,,,,,medium,,,,,,,69.0,1380.0,5.0,"[10501392, 10507263, 10449105, 10487541, 10510363]",,,,,5.0
+novel_cluster,2024-10-21/2024-10-27,,,,,medium,,,,,,,74.0,1470.0,5.03,"[10566271, 10587209, 10539281, 10526441, 10523641]",,,,,5.0
+novel_cluster,2024-10-28/2024-11-03,,,,,medium,,,,,,,67.0,1335.0,5.02,"[10610391, 10620912, 10627290, 10620668, 10641321]",,,,,5.0
+novel_cluster,2024-11-04/2024-11-10,,,,,medium,,,,,,,74.0,1471.0,5.03,"[10706985, 10678939, 10674756, 10688497, 10688091]",,,,,5.0
+novel_cluster,2024-11-11/2024-11-17,,,,,medium,,,,,,,69.0,1364.0,5.06,"[10808347, 10813390, 10752643, 10781221, 10833220]",,,,,5.0
+novel_cluster,2024-11-18/2024-11-24,,,,,medium,,,,,,,67.0,1328.0,5.05,"[10876600, 10914381, 10899711, 10898506, 10866039]",,,,,5.0
+novel_cluster,2024-09-30/2024-10-06,,,,,medium,,,,,,,66.0,1414.0,4.67,"[10322883, 10320385, 10359527, 10296629, 10305262]",,,,,5.0
+novel_cluster,2024-10-07/2024-10-13,,,,,medium,,,,,,,71.0,1629.0,4.36,"[10408459, 10417752, 10386966, 10361893, 10396277]",,,,,5.0
+novel_cluster,2024-12-02/2024-12-08,,,,,medium,,,,,,,77.0,1522.0,5.06,"[11011546, 10998715, 11025973, 11009097, 10998220]",,,,,5.0
+novel_cluster,2024-11-25/2024-12-01,,,,,medium,,,,,,,56.0,1118.0,5.01,"[10970673, 10988046, 10943917, 10931847, 10970502]",,,,,5.0
+novel_cluster,2024-12-09/2024-12-15,,,,,medium,,,,,,,75.0,1498.0,5.01,"[11149161, 11128554, 11102397, 11108737, 11128473]",,,,,5.0
+novel_cluster,2024-06-24/2024-06-30,,,,,medium,,,,,,,27.0,1363.0,1.98,"[9368062, 9355434, 9351128, 9379124, 9354836]",,,,,5.0
+novel_cluster,2024-06-17/2024-06-23,,,,,medium,,,,,,,66.0,1307.0,5.05,"[9324532, 9284415, 9282070, 9305322, 9308444]",,,,,5.0
+novel_cluster,2024-06-10/2024-06-16,,,,,medium,,,,,,,63.0,1255.0,5.02,"[9271054, 9254690, 9250825, 9266976, 9229173]",,,,,5.0
+novel_cluster,2024-06-03/2024-06-09,,,,,medium,,,,,,,73.0,1466.0,4.98,"[9198442, 9207040, 9215278, 9178527, 9184942]",,,,,5.0
+novel_cluster,2024-05-27/2024-06-02,,,,,medium,,,,,,,72.0,1427.0,5.05,"[9133181, 9115527, 9126970, 9118420, 9150942]",,,,,5.0
+novel_cluster,2024-05-20/2024-05-26,,,,,medium,,,,,,,73.0,1461.0,5.0,"[9103633, 9075452, 9072952, 9099037, 9101071]",,,,,5.0
+novel_cluster,2024-05-13/2024-05-19,,,,,medium,,,,,,,69.0,1365.0,5.05,"[8992657, 9046886, 9002984, 9038352, 9007983]",,,,,5.0
+novel_cluster,2024-05-06/2024-05-12,,,,,medium,,,,,,,76.0,1510.0,5.03,"[8959718, 8982419, 8936338, 8946522, 8982635]",,,,,5.0
+novel_cluster,2024-08-19/2024-08-25,,,,,medium,,,,,,,68.0,1345.0,5.06,"[9844875, 9898813, 9910639, 9847710, 9904959]",,,,,5.0
+correlated_spike,2024-12-23/2024-12-29,,,,,medium,,,,,,,,,,,3.0,"['NRA Group, LLC', 'Self Financial Inc.', 'Velocity Portfolio Group']",2.19,"{'Attempts to collect debt not owed': 7, 'False statements or representation': 6, 'Written notification about debt': 2}",5.0
+correlated_spike,2024-11-11/2024-11-17,,,,,medium,,,,,,,,,,,4.0,"['Absolute Resolutions Corp.', 'Debt Recovery Solutions, LLC', 'Harris & Harris, Ltd.', 'Security Credit Services, LLC']",3.06,"{'Attempts to collect debt not owed': 10, 'False statements or representation': 9, 'Written notification about debt': 4}",5.0
+correlated_spike,2024-11-25/2024-12-01,,,,,medium,,,,,,,,,,,3.0,"['AMERICAN EXPRESS COMPANY', ""Conn's, Inc."", 'SANTANDER HOLDINGS USA, INC.']",2.54,"{'Attempts to collect debt not owed': 6, 'False statements or representation': 5, 'Written notification about debt': 5}",5.0
+correlated_spike,2024-12-02/2024-12-08,,,,,medium,,,,,,,,,,,3.0,"['AMERICAN EXPRESS COMPANY', 'Aargon Agency, Inc.', 'Westlake Services, LLC']",2.52,"{'Attempts to collect debt not owed': 10, 'False statements or representation': 5, 'Written notification about debt': 2}",5.0
+correlated_spike,2024-10-14/2024-10-20,,,,,medium,,,,,,,,,,,4.0,"['Ability Recovery Services, LLC', 'BARCLAYS BANK DELAWARE', 'Credit Control, LLC', 'Velocity Portfolio Group']",2.68,"{'Attempts to collect debt not owed': 11, 'Written notification about debt': 8, 'Took or threatened to take negative or legal action': 7}",5.0
+correlated_spike,2024-10-07/2024-10-13,,,,,medium,,,,,,,,,,,3.0,"['Diversified Adjustment Service, Inc.', 'NCB Management Services Inc.', 'United Collection Bureau, Inc.']",3.21,"{'Attempts to collect debt not owed': 12, 'False statements or representation': 4, 'Took or threatened to take negative or legal action': 4}",5.0
+correlated_spike,2024-08-05/2024-08-11,,,,,medium,,,,,,,,,,,3.0,"['Credit Control, LLC', 'Lockhart, Morris & Montgomery Inc.', 'RentDebt Automated Collections, LLC']",2.83,"{'Attempts to collect debt not owed': 9, 'False statements or representation': 3, 'Communication tactics': 2}",5.0
+correlated_spike,2024-08-19/2024-08-25,,,,,medium,,,,,,,,,,,4.0,"['Credit Control, LLC', 'Mullooly Jeffrey Rooney & Flynn', 'Rent Recovery Solutions', 'Sequium Asset Solutions, LLC']",4.0,"{'Attempts to collect debt not owed': 17, 'Written notification about debt': 9, 'Took or threatened to take negative or legal action': 4}",5.0
+correlated_spike,2024-08-26/2024-09-01,,,,,medium,,,,,,,,,,,3.0,"['NRA Group, LLC', 'TrueAccord Corp.', 'Unifin Inc.']",2.56,"{'Attempts to collect debt not owed': 10, 'Electronic communications': 4, 'Written notification about debt': 3}",5.0
+correlated_spike,2024-06-24/2024-06-30,,,,,medium,,,,,,,,,,,4.0,"['Consumer Adjustment Company Incorporated', 'FAIR COLLECTIONS & OUTSOURCING, INC.', 'V and H Portfolio', 'Waypoint Resource Group, LLC']",2.52,"{'Attempts to collect debt not owed': 15, 'Written notification about debt': 7, 'False statements or representation': 3}",5.0
+correlated_spike,2024-05-06/2024-05-12,,,,,medium,,,,,,,,,,,4.0,"['AMERICAN EXPRESS COMPANY', 'Aldous & Associates, PLLC', 'The CBE Group, Inc.', 'WELLS FARGO & COMPANY']",2.68,"{'Attempts to collect debt not owed': 20, 'Written notification about debt': 8, 'Took or threatened to take negative or legal action': 3}",5.0
+correlated_spike,2024-04-29/2024-05-05,,,,,medium,,,,,,,,,,,3.0,"['Capio Partners, LLC', 'NAVY FEDERAL CREDIT UNION', 'SANTANDER HOLDINGS USA, INC.']",2.39,"{'Written notification about debt': 7, 'Attempts to collect debt not owed': 6, 'Took or threatened to take negative or legal action': 4}",5.0
+correlated_spike,2024-04-22/2024-04-28,,,,,medium,,,,,,,,,,,4.0,"['Lockhart, Morris & Montgomery Inc.', 'National Credit Adjusters, LLC', 'Velocity Portfolio Group', 'W&A Intermediate Co., LLC']",2.62,"{'Attempts to collect debt not owed': 31, 'Written notification about debt': 9, 'Communication tactics': 5}",5.0
+novel_cluster,2024-02-12/2024-02-18,,,,,medium,,,,,,,50.0,983.0,5.09,"[8366152, 8352897, 8330539, 8351927, 8351505]",,,,,5.0
+novel_cluster,2024-02-05/2024-02-11,,,,,medium,,,,,,,46.0,911.0,5.05,"[8299225, 8320707, 8303086, 8320237, 8310876]",,,,,5.0
+novel_cluster,2024-01-08/2024-01-14,,,,,medium,,,,,,,41.0,821.0,4.99,"[8136321, 8172499, 8129678, 8133102, 8122407]",,,,,5.0
+novel_cluster,2023-12-11/2023-12-17,,,,,medium,,,,,,,39.0,778.0,5.01,"[8000392, 7983362, 8012992, 7997588, 8000491]",,,,,5.0
+novel_cluster,2024-07-01/2024-07-07,,,,,medium,,,,,,,51.0,1003.0,5.08,"[9432626, 9405384, 9444438, 9393712, 9397019]",,,,,5.0
+novel_cluster,2024-07-08/2024-07-14,,,,,medium,,,,,,,63.0,1252.0,5.03,"[9484021, 9487029, 9457470, 9460889, 9453422]",,,,,5.0
+novel_cluster,2024-07-15/2024-07-21,,,,,medium,,,,,,,70.0,1398.0,5.01,"[9562902, 9531976, 9539290, 9548078, 9542241]",,,,,5.0
+novel_cluster,2024-04-01/2024-04-07,,,,,medium,,,,,,,80.0,1587.0,5.04,"[8712523, 8713917, 8679252, 8702281, 8683719]",,,,,5.0
+novel_cluster,2024-04-29/2024-05-05,,,,,medium,,,,,,,78.0,1542.0,5.06,"[8878308, 8920549, 8918712, 8925257, 8915724]",,,,,5.0
+novel_cluster,2024-02-19/2024-02-25,,,,,medium,,,,,,,62.0,1233.0,5.03,"[8403032, 8389233, 8372852, 8372648, 8405888]",,,,,5.0
+novel_cluster,2024-02-26/2024-03-03,,,,,medium,,,,,,,53.0,1043.0,5.08,"[8467522, 8464150, 8416461, 8431849, 8444124]",,,,,5.0
+novel_cluster,2024-03-04/2024-03-10,,,,,medium,,,,,,,74.0,1465.0,5.05,"[8488990, 8504974, 8495455, 8508276, 8505557]",,,,,5.0
+novel_cluster,2024-03-11/2024-03-17,,,,,medium,,,,,,,95.0,1900.0,5.0,"[8531550, 8543928, 8524203, 8558544, 8529374]",,,,,5.0
+novel_cluster,2024-03-18/2024-03-24,,,,,medium,,,,,,,82.0,1633.0,5.02,"[8602617, 8564303, 8599956, 8601123, 8590968]",,,,,5.0
+novel_cluster,2024-03-25/2024-03-31,,,,,medium,,,,,,,76.0,1519.0,5.0,"[8616890, 8632160, 8655520, 8639766, 8662531]",,,,,5.0
+novel_cluster,2024-01-01/2024-01-07,,,,,medium,,,,,,,42.0,831.0,5.05,"[8086643, 8119217, 8089662, 8120268, 8094254]",,,,,5.0
+novel_cluster,2023-12-25/2023-12-31,,,,,medium,,,,,,,37.0,734.0,5.04,"[8065023, 8061655, 8084721, 8062039, 8067940]",,,,,5.0
+novel_cluster,2023-12-18/2023-12-24,,,,,medium,,,,,,,41.0,813.0,5.04,"[8035783, 8052409, 8042219, 8041804, 8025161]",,,,,5.0
+novel_cluster,2023-12-04/2023-12-10,,,,,medium,,,,,,,40.0,799.0,5.01,"[7944604, 7957829, 7939953, 7960317, 7939806]",,,,,5.0
+novel_cluster,2023-11-27/2023-12-03,,,,,medium,,,,,,,40.0,793.0,5.04,"[7918730, 7928646, 7927544, 7916594, 7908576]",,,,,5.0
+novel_cluster,2024-01-15/2024-01-21,,,,,medium,,,,,,,40.0,792.0,5.05,"[8166807, 8157926, 8181901, 8181920, 8178886]",,,,,5.0
+novel_cluster,2024-01-22/2024-01-28,,,,,medium,,,,,,,57.0,1134.0,5.03,"[8219533, 8206110, 8206337, 8207750, 8205498]",,,,,5.0
+novel_cluster,2024-01-29/2024-02-04,,,,,medium,,,,,,,43.0,858.0,5.01,"[8266433, 8265725, 8244714, 8238950, 8267013]",,,,,5.0
+novel_cluster,2025-01-27/2025-02-02,,,,,medium,,,,,,,85.0,1701.0,5.0,"[11874164, 11774286, 11775095, 11851029, 11801492]",,,,,5.0
+novel_cluster,2025-01-20/2025-01-26,,,,,medium,,,,,,,118.0,2353.0,5.01,"[11612313, 11724472, 11732451, 11721852, 11755849]",,,,,5.0
+correlated_spike,2023-11-27/2023-12-03,,,,,medium,,,,,,,,,,,4.0,"['CAPITAL ONE FINANCIAL CORPORATION', 'JPMORGAN CHASE & CO.', 'TrueAccord Corp.', 'Westlake Services, LLC']",2.82,"{'Attempts to collect debt not owed': 17, 'Written notification about debt': 13, 'Communication tactics': 4}",5.0
+novel_cluster,2024-12-16/2024-12-22,,,,,medium,,,,,,,73.0,1445.0,5.05,"[11215475, 11184104, 11178062, 11224249, 11174890]",,,,,5.0
+novel_cluster,2025-01-06/2025-01-12,,,,,medium,,,,,,,88.0,1756.0,5.01,"[11490421, 11395655, 11491867, 11489760, 11472523]",,,,,5.0
+novel_cluster,2025-01-13/2025-01-19,,,,,medium,,,,,,,99.0,1999.0,4.95,"[11634169, 11576346, 11526320, 11621832, 11628675]",,,,,5.0
+novel_cluster,2024-12-23/2024-12-29,,,,,medium,,,,,,,60.0,1183.0,5.07,"[11306476, 11297483, 11262604, 11304803, 11268376]",,,,,5.0
+novel_cluster,2024-12-30/2025-01-05,,,,,medium,,,,,,,69.0,1375.0,5.02,"[11350942, 11388378, 11355597, 11376197, 11343968]",,,,,5.0
+correlated_spike,2024-01-29/2024-02-04,,,,,medium,,,,,,,,,,,4.0,"['FAIR COLLECTIONS & OUTSOURCING, INC.', 'MRS BPO, LLC', 'NCB Management Services Inc.', 'TrueAccord Corp.']",2.33,"{'Attempts to collect debt not owed': 13, 'Written notification about debt': 5, 'Electronic communications': 3}",5.0
+correlated_spike,2024-01-08/2024-01-14,,,,,medium,,,,,,,,,,,3.0,"['JPMORGAN CHASE & CO.', 'W&A Intermediate Co., LLC', 'Westlake Services, LLC']",2.58,"{'Attempts to collect debt not owed': 9, 'Written notification about debt': 8, 'Took or threatened to take negative or legal action': 2}",5.0
+correlated_spike,2024-02-26/2024-03-03,,,,,medium,,,,,,,,,,,4.0,"['Ability Recovery Services, LLC', 'Aldous & Associates, PLLC', 'CAINE & WEINER COMPANY, INC.', 'JPMORGAN CHASE & CO.']",2.7,"{'Attempts to collect debt not owed': 16, 'Written notification about debt': 14, 'Took or threatened to take negative or legal action': 5}",5.0
+correlated_spike,2023-12-18/2023-12-24,,,,,medium,,,,,,,,,,,4.0,"['HW Holding, Inc', 'National Credit Adjusters, LLC', 'SYNCHRONY FINANCIAL', 'WELLS FARGO & COMPANY']",2.79,"{'Attempts to collect debt not owed': 23, 'Written notification about debt': 13, 'False statements or representation': 3}",5.0
+correlated_spike,2024-02-05/2024-02-11,,,,,medium,,,,,,,,,,,4.0,"['ONLINE Information Services, Inc.', 'Radius Global Solutions LLC', 'Sequium Asset Solutions, LLC', 'TrueAccord Corp.']",3.16,"{'Attempts to collect debt not owed': 21, 'Communication tactics': 3, 'Electronic communications': 3}",5.0
+novel_cluster,2024-04-08/2024-04-14,,,,,medium,,,,,,,72.0,1740.0,4.14,"[8767497, 8761661, 8756646, 8761418, 8722471]",,,,,5.0
+novel_cluster,2024-04-15/2024-04-21,,,,,medium,,,,,,,88.0,1785.0,4.93,"[8774655, 8776797, 8785211, 8823392, 8806406]",,,,,5.0
+novel_cluster,2024-04-22/2024-04-28,,,,,medium,,,,,,,91.0,1810.0,5.03,"[8850846, 8838424, 8842177, 8879316, 8879338]",,,,,5.0
+novel_cluster,2024-07-22/2024-07-28,,,,,medium,,,,,,,56.0,1183.0,4.73,"[9591057, 9603761, 9594420, 9619030, 9621734]",,,,,5.0
+volume_spike,2025-01-20/2025-01-26,,,,,low,,"I.C. System, Inc.",33.0,17.8,1.86,0.000766,,,,,,,,,4.975771173670992
+volume_spike,2025-01-20/2025-01-26,,,,,low,,"Rowland Avenue Management, Inc. A/KA Columbia Debt Recovery, LLC d/b/a Genesis",34.0,18.5,1.84,0.000782,,,,,,,,,4.946793191403777
+volume_spike,2024-01-15/2024-01-21,,,,,low,,Experian Information Solutions Inc.,93.0,63.8,1.46,0.000349,,,,,,,,,4.917174448601158
+volume_spike,2024-08-12/2024-08-18,,,,,low,,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",190.0,146.5,1.3,0.000324,,,,,,,,,4.789454855751901
+volume_spike,2024-03-25/2024-03-31,,,,,low,,"EQUIFAX, INC.",237.0,188.5,1.26,0.000371,,,,,,,,,4.690625973324463
+volume_spike,2024-03-18/2024-03-24,,,,,low,,"Rowland Avenue Management, Inc. A/KA Columbia Debt Recovery, LLC d/b/a Genesis",28.0,15.0,1.87,0.001716,,,,,,,,,4.635482691178778
+volume_spike,2025-01-06/2025-01-12,,,,,low,,Experian Information Solutions Inc.,140.0,104.5,1.34,0.000536,,,,,,,,,4.6108351292821474
+volume_spike,2023-11-27/2023-12-03,,,,,low,,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",66.0,43.5,1.52,0.00089,,,,,,,,,4.570609944557957
+volume_spike,2024-12-02/2024-12-08,,,,,low,,"EQUIFAX, INC.",137.0,102.5,1.34,0.000664,,,,,,,,,4.517831855226192
+volume_spike,2024-12-02/2024-12-08,,,,,low,,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",155.0,118.5,1.31,0.000756,,,,,,,,,4.431478147052437
+volume_spike,2024-04-15/2024-04-21,,,,,low,,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",352.0,294.5,1.2,0.000616,,,,,,,,,4.410419217333229
+volume_spike,2025-01-13/2025-01-19,,,,,low,,T.S. Holdings,19.0,9.5,2.0,0.004284,,,,,,,,,4.368150527702589
+volume_spike,2024-12-02/2024-12-08,,,,,low,,Experian Information Solutions Inc.,153.0,117.2,1.3,0.00089,,,,,,,,,4.350609944557958
+volume_spike,2025-01-13/2025-01-19,,,,,low,,"CITIBANK, N.A.",22.0,11.5,1.91,0.003771,,,,,,,,,4.333543456077687
+volume_spike,2025-01-20/2025-01-26,,,,,low,,T.S. Holdings,22.0,11.5,1.91,0.003771,,,,,,,,,4.333543456077687
+volume_spike,2024-09-30/2024-10-06,,,,,low,,"CCS Financial Services, Inc.",30.0,17.0,1.76,0.002727,,,,,,,,,4.324314846132647
+volume_spike,2025-01-06/2025-01-12,,,,,low,,CL Holdings LLC,76.0,52.5,1.45,0.001357,,,,,,,,,4.317420120336249
+volume_spike,2025-01-06/2025-01-12,,,,,low,,"Portfolio Recovery Associates, LLC",72.0,49.2,1.46,0.001394,,,,,,,,,4.315737195083456
+volume_spike,2025-01-20/2025-01-26,,,,,low,,"W&A Intermediate Co., LLC",20.0,10.2,1.95,0.004499,,,,,,,,,4.2968839971812995
+volume_spike,2024-07-15/2024-07-21,,,,,low,,Resurgent Capital Services L.P.,82.0,57.5,1.43,0.001364,,,,,,,,,4.29518559783977
+volume_spike,2025-01-13/2025-01-19,,,,,low,,"National Credit Systems,Inc.",39.0,24.0,1.62,0.00298,,,,,,,,,4.145783721350105
+volume_spike,2024-12-09/2024-12-15,,,,,low,,"National Credit Systems,Inc.",29.0,16.8,1.73,0.004096,,,,,,,,,4.117640041429333
+volume_spike,2024-11-18/2024-11-24,,,,,low,,SYNCHRONY FINANCIAL,18.0,9.2,1.95,0.006936,,,,,,,,,4.108890909270392
+volume_spike,2025-01-13/2025-01-19,,,,,low,,"CCS Financial Services, Inc.",40.0,25.0,1.6,0.003444,,,,,,,,,4.062936844608206
+volume_spike,2025-01-20/2025-01-26,,,,,low,,"Spring Oaks Capital, LLC",19.0,10.0,1.9,0.007187,,,,,,,,,4.043452349100473
+volume_spike,2023-12-04/2023-12-10,,,,,low,,Experian Information Solutions Inc.,81.0,58.0,1.4,0.00248,,,,,,,,,4.00554830166191
+volume_spike,2024-08-12/2024-08-18,,,,,low,,Experian Information Solutions Inc.,184.0,147.0,1.25,0.001804,,,,,,,,,3.993763442720104
+volume_spike,2024-08-05/2024-08-11,,,,,low,,"I.C. System, Inc.",20.0,10.8,1.86,0.007373,,,,,,,,,3.992355760206565
+volume_spike,2024-11-04/2024-11-10,,,,,low,,"SUNRISE CREDIT SERVICES, INC",18.0,9.5,1.89,0.008928,,,,,,,,,3.9392458135420867
+volume_spike,2024-02-12/2024-02-18,,,,,low,,Resurgent Capital Services L.P.,58.0,39.5,1.47,0.00342,,,,,,,,,3.9359738812451956
+volume_spike,2025-01-20/2025-01-26,,,,,low,,TRANSWORLD SYSTEMS INC,46.0,30.0,1.53,0.003958,,,,,,,,,3.932524199157049
+volume_spike,2024-03-25/2024-03-31,,,,,low,,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",278.0,232.2,1.2,0.001923,,,,,,,,,3.9160206931773045
+volume_spike,2024-10-14/2024-10-20,,,,,low,,ENCORE CAPITAL GROUP INC.,73.0,52.0,1.4,0.003434,,,,,,,,,3.864199696528204
+volume_spike,2024-07-08/2024-07-14,,,,,low,,Resurgent Capital Services L.P.,76.0,54.5,1.39,0.003389,,,,,,,,,3.8599284183477947
+volume_spike,2024-11-04/2024-11-10,,,,,low,,"CCS Financial Services, Inc.",39.0,25.0,1.56,0.005696,,,,,,,,,3.804430011746648
+volume_spike,2025-01-06/2025-01-12,,,,,low,,"Kriya Capital, LLC",28.0,16.8,1.67,0.007361,,,,,,,,,3.803063176368422
+volume_spike,2024-03-11/2024-03-17,,,,,low,,"Portfolio Recovery Associates, LLC",48.0,32.2,1.49,0.005631,,,,,,,,,3.739414464946427
+volume_spike,2024-03-11/2024-03-17,,,,,low,,ENCORE CAPITAL GROUP INC.,49.0,33.2,1.47,0.006198,,,,,,,,,3.677748421089726
+volume_spike,2024-11-04/2024-11-10,,,,,low,,Resurgent Capital Services L.P.,120.0,93.2,1.29,0.004392,,,,,,,,,3.647337658669657
+volume_spike,2024-05-13/2024-05-19,,,,,low,,"Portfolio Recovery Associates, LLC",54.0,37.5,1.44,0.006578,,,,,,,,,3.6219061242511374
+volume_spike,2024-08-19/2024-08-25,,,,,low,,CL Holdings LLC,52.0,36.0,1.44,0.007121,,,,,,,,,3.587459008131416
+volume_spike,2024-09-23/2024-09-29,,,,,low,,Resurgent Capital Services L.P.,100.0,77.0,1.3,0.006745,,,,,,,,,3.4710180395533152
+volume_spike,2024-04-15/2024-04-21,,,,,low,,"EQUIFAX, INC.",291.0,249.2,1.17,0.005301,,,,,,,,,3.4456421875808836
+volume_spike,2024-10-07/2024-10-13,,,,,low,,"Portfolio Recovery Associates, LLC",63.0,45.8,1.38,0.008944,,,,,,,,,3.4284682046019443
+volume_spike,2025-01-06/2025-01-12,,,,,low,,Resurgent Capital Services L.P.,115.0,90.5,1.27,0.007365,,,,,,,,,3.4028272429246162
+volume_spike,2025-01-20/2025-01-26,,,,,low,,ENCORE CAPITAL GROUP INC.,90.0,69.2,1.3,0.009476,,,,,,,,,3.323374943366173
+volume_spike,2024-10-07/2024-10-13,,,,,low,,Experian Information Solutions Inc.,176.0,145.5,1.21,0.007726,,,,,,,,,3.3220452905699913
