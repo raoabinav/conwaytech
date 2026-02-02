@@ -186,17 +186,65 @@ The detector identified 30 complaint clusters. Top interpretable clusters:
 
 ---
 
-## Technical Specifications
+## Benchmarks & Validation
 
 ### Runtime Performance
 
 | Phase | Duration (85k rows) |
 |-------|---------------------|
-| Data loading | ~2 sec |
-| TF-IDF vectorization | ~3 sec |
-| K-Means clustering | ~2 sec |
-| Anomaly detection | ~5 sec |
-| **Total** | **~12 sec** |
+| Data loading | 2.0 sec |
+| TF-IDF vectorization | 11.5 sec |
+| K-Means clustering | 1.1 sec |
+| Anomaly detection | 24.5 sec |
+| **Total pipeline** | **39.1 sec** |
+
+### Cluster Quality Metrics
+
+| Metric | Value | Interpretation |
+|--------|-------|----------------|
+| Silhouette Score | 0.164 | Fair clustering (range: -1 to 1) |
+| Calinski-Harabasz | 65 | Reasonable cluster separation |
+| Cluster sizes | Min: 255, Max: 13,903, Median: 1,557 | Well-distributed |
+
+### Alert Quality Metrics
+
+| Metric | Value |
+|--------|-------|
+| Total alerts | 486 |
+| Alert density | 7.4 alerts/week |
+| Temporal coverage | 62/66 weeks (94%) |
+
+**Statistical Significance:**
+- Volume spike p-values: Median 2.16e-03, 39.9% < 0.001
+- Cluster z-scores: Median |z| = 4.38, Max |z| = 18.93
+
+### Top Flagged Entities
+
+| Company | Volume Spike Alerts |
+|---------|---------------------|
+| Experian Information Solutions Inc. | 14 |
+| TRANSUNION INTERMEDIATE HOLDINGS | 11 |
+| EQUIFAX, INC. | 11 |
+| Resurgent Capital Services L.P. | 8 |
+| Portfolio Recovery Associates | 6 |
+
+### Sample Alert Evidence
+
+**Volume Spike: CL Holdings LLC (5.23x)**
+- Week: 2024-02-19/2024-02-25
+- Complaints: 145 (vs. baseline 28)
+- Top issue: "Attempts to collect debt not owed" (84 complaints)
+- Sample: *"This collection agency is harassing and calling me, in addition they are sending me letters. They also are reporting this as a new debt..."*
+
+**Correlated Spike: Credit Bureaus March 2024**
+- Week: 2024-03-11/2024-03-17
+- Total: 969 complaints across all three bureaus
+- TransUnion: 365, Experian: 313, Equifax: 291
+- Common issue: "Written notification about debt" (511 complaints)
+
+---
+
+## Technical Specifications
 
 ### Dependencies
 
