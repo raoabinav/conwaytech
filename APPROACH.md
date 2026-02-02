@@ -120,10 +120,44 @@ For each (cluster, week):
 
 ## Open Issues (to resolve during implementation)
 
-- [ ] How to handle companies with very few complaints? (high variance)
-- [ ] Should we weight recent baseline weeks more heavily?
-- [ ] What's the right threshold for "novel" micro-clusters?
+- [x] How to handle companies with very few complaints? → Set minimum baseline threshold (5 complaints over baseline period)
+- [ ] Should we weight recent baseline weeks more heavily? → Kept uniform for simplicity, but exponential decay could help
+- [x] What's the right threshold for "novel" micro-clusters? → Used 95th percentile of distances, 10+ novel complaints to flag
 
 ---
 
-*Log continues as implementation progresses...*
+## Implementation Pivot: TF-IDF Instead of Sentence Transformers
+
+**Original plan:** sentence-transformers (all-MiniLM-L6-v2) for embeddings
+
+**What happened:** Heavy dependencies (PyTorch, transformers) were slow to install, blocking progress.
+
+**Pivot decision:** Use TF-IDF + K-Means instead
+
+**Tradeoffs:**
+| Aspect | Sentence Transformers | TF-IDF |
+|--------|----------------------|--------|
+| Semantic quality | High (captures meaning) | Medium (lexical only) |
+| Install time | ~10 min | Already in sklearn |
+| Runtime | ~15 min for 85k | ~3 sec for 85k |
+| Interpretability | Low (dense vectors) | High (can see top words) |
+
+**Conclusion:** For this demonstration, TF-IDF was sufficient to show the methodology. The architecture remains the same — only the vectorization step differs. Production version could swap in sentence-transformers without changing other components.
+
+---
+
+## Results Summary
+
+**Ran detector on 85,515 complaints → 486 alerts**
+
+Key validations:
+1. March 2024 credit bureau spike detected (all 3 major bureaus spiked in same week)
+2. CL Holdings LLC volume anomaly detected (5.23x growth)
+3. "Unauthorized transactions" cluster growth/decline tracked over time
+4. January 2025 correlated spikes flagged
+
+The detector successfully surfaced actionable, interpretable patterns without any labels.
+
+---
+
+*Implementation complete.*
